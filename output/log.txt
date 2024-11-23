@@ -1,0 +1,2712 @@
+Face 1: Detected Mahir with confidence 0.58
+------ End of Batch ------
+Face 1: Detected Priyal with confidence 0.37
+Face 2: Alert - Not in data (best score: 0.30)
+Face 3: Detected Mahir with confidence 0.42
+Face 4: Detected Priyal with confidence 0.31
+Face 5: Detected Mahir with confidence 0.46
+Face 6: Detected Priyal with confidence 0.40
+Face 7: Detected Mahir with confidence 0.41
+Face 8: Detected Priyal with confidence 0.64
+Face 9: Detected Priyal with confidence 0.37
+Face 10: Detected Priyal with confidence 0.39
+------ End of Batch ------
+Face 11: Detected Mahir with confidence 0.42
+Face 12: Detected Priyal with confidence 0.41
+Face 13: Detected Mahir with confidence 0.37
+Face 14: Detected Priyal with confidence 0.33
+Face 15: Detected Mahir with confidence 0.43
+Face 16: Detected Mahir with confidence 0.49
+Face 17: Alert - Not in data (best score: 0.25)
+Face 18: Detected Mahir with confidence 0.41
+Face 19: Detected Priyal with confidence 0.32
+Face 20: Detected Mahir with confidence 0.39
+------ End of Batch ------
+Face 21: Alert - Not in data (best score: 0.18)
+Face 22: Detected Mahir with confidence 0.43
+Face 23: Alert - Not in data (best score: 0.25)
+Face 24: Alert - Not in data (best score: 0.22)
+Face 25: Alert - Not in data (best score: 0.29)
+Face 26: Detected Mahir with confidence 0.41
+Face 27: Detected Mahir with confidence 0.38
+Face 28: Detected Mahir with confidence 0.44
+Face 29: Detected Mahir with confidence 0.43
+Face 30: Alert - Not in data (best score: 0.29)
+------ End of Batch ------
+Face 31: Alert - Not in data (best score: 0.22)
+Face 32: Detected Mahir with confidence 0.41
+Face 33: Alert - Not in data (best score: 0.18)
+Face 34: Detected Mahir with confidence 0.36
+Face 35: Alert - Not in data (best score: 0.19)
+Face 36: Detected Priyal with confidence 0.31
+Face 37: Alert - Not in data (best score: 0.18)
+Face 38: Alert - Not in data (best score: 0.22)
+Face 39: Alert - Not in data (best score: 0.15)
+Face 40: Alert - Not in data (best score: 0.26)
+------ End of Batch ------
+Face 41: Alert - Not in data (best score: 0.16)
+Face 42: Alert - Not in data (best score: 0.22)
+Face 43: Alert - Not in data (best score: 0.16)
+Face 44: Alert - Not in data (best score: 0.22)
+Face 45: Alert - Not in data (best score: 0.14)
+Face 46: Alert - Not in data (best score: 0.21)
+Face 47: Alert - Not in data (best score: 0.16)
+Face 48: Alert - Not in data (best score: 0.19)
+Face 49: Alert - Not in data (best score: 0.24)
+Face 50: Alert - Not in data (best score: 0.19)
+------ End of Batch ------
+Face 51: Alert - Not in data (best score: 0.24)
+Face 52: Alert - Not in data (best score: 0.19)
+Face 53: Alert - Not in data (best score: 0.19)
+Face 54: Alert - Not in data (best score: 0.21)
+Face 55: Alert - Not in data (best score: 0.22)
+Face 56: Alert - Not in data (best score: 0.19)
+Face 57: Alert - Not in data (best score: 0.21)
+Face 58: Alert - Not in data (best score: 0.22)
+Face 59: Alert - Not in data (best score: 0.24)
+Face 60: Alert - Not in data (best score: 0.21)
+------ End of Batch ------
+Face 61: Alert - Not in data (best score: 0.25)
+Face 62: Alert - Not in data (best score: 0.22)
+Face 63: Alert - Not in data (best score: 0.24)
+Face 64: Alert - Not in data (best score: 0.24)
+Face 65: Alert - Not in data (best score: 0.24)
+Face 66: Alert - Not in data (best score: 0.23)
+Face 67: Alert - Not in data (best score: 0.22)
+Face 68: Alert - Not in data (best score: 0.21)
+Face 69: Alert - Not in data (best score: 0.24)
+Face 70: Alert - Not in data (best score: 0.28)
+------ End of Batch ------
+Face 71: Alert - Not in data (best score: 0.26)
+Face 72: Alert - Not in data (best score: 0.21)
+Face 73: Alert - Not in data (best score: 0.19)
+Face 74: Detected Mahir with confidence 0.39
+Face 75: Alert - Not in data (best score: 0.29)
+Face 76: Alert - Not in data (best score: 0.18)
+Face 77: Alert - Not in data (best score: 0.24)
+Face 78: Alert - Not in data (best score: 0.21)
+Face 79: Alert - Not in data (best score: 0.27)
+Face 80: Alert - Not in data (best score: 0.24)
+------ End of Batch ------
+Face 81: Detected Mahir with confidence 0.37
+Face 82: Alert - Not in data (best score: 0.27)
+Face 83: Alert - Not in data (best score: 0.27)
+Face 84: Alert - Not in data (best score: 0.28)
+Face 85: Detected Mahir with confidence 0.56
+Face 86: Detected Mahir with confidence 0.59
+Face 87: Detected Mahir with confidence 0.64
+Face 88: Detected Mahir with confidence 0.57
+Face 89: Detected Mahir with confidence 0.48
+Face 90: Detected Mahir with confidence 0.46
+------ End of Batch ------
+Face 91: Detected Mahir with confidence 0.43
+Face 92: Detected Mahir with confidence 0.57
+Face 93: Detected Mahir with confidence 0.55
+Face 94: Alert - Not in data (best score: 0.19)
+Face 95: Alert - Not in data (best score: 0.30)
+Face 96: Alert - Not in data (best score: 0.26)
+Face 97: Detected Mahir with confidence 0.61
+Face 98: Alert - Not in data (best score: 0.27)
+Face 99: Detected Mahir with confidence 0.58
+Face 100: Alert - Not in data (best score: 0.17)
+------ End of Batch ------
+Face 101: Detected Mahir with confidence 0.64
+Face 102: Detected Mahir with confidence 0.32
+Face 103: Detected Mahir with confidence 0.65
+Face 104: Alert - Not in data (best score: 0.25)
+Face 105: Detected Mahir with confidence 0.58
+Face 106: Alert - Not in data (best score: 0.22)
+Face 107: Detected Mahir with confidence 0.54
+Face 108: Alert - Not in data (best score: 0.21)
+Face 109: Detected Mahir with confidence 0.58
+Face 110: Alert - Not in data (best score: 0.21)
+------ End of Batch ------
+Face 111: Detected Mahir with confidence 0.50
+Face 112: Detected Mahir with confidence 0.34
+Face 113: Detected Mahir with confidence 0.48
+Face 114: Alert - Not in data (best score: 0.24)
+Face 115: Detected Mahir with confidence 0.52
+Face 116: Alert - Not in data (best score: 0.24)
+Face 117: Detected Mahir with confidence 0.42
+Face 118: Detected Mahir with confidence 0.30
+Face 119: Detected Mahir with confidence 0.44
+Face 120: Alert - Not in data (best score: 0.24)
+------ End of Batch ------
+Face 121: Detected Mahir with confidence 0.42
+Face 122: Detected Priyal with confidence 0.36
+Face 123: Detected Mahir with confidence 0.31
+Face 124: Alert - Not in data (best score: 0.22)
+Face 125: Detected Mahir with confidence 0.40
+Face 126: Alert - Not in data (best score: 0.25)
+Face 127: Detected Mahir with confidence 0.42
+Face 128: Alert - Not in data (best score: 0.29)
+Face 129: Detected Mahir with confidence 0.39
+Face 130: Alert - Not in data (best score: 0.28)
+------ End of Batch ------
+Face 131: Detected Mahir with confidence 0.47
+Face 132: Alert - Not in data (best score: 0.21)
+Face 133: Detected Mahir with confidence 0.38
+Face 134: Detected Priyal with confidence 0.31
+Face 135: Detected Mahir with confidence 0.48
+Face 136: Detected Priyal with confidence 0.36
+Face 137: Detected Mahir with confidence 0.44
+Face 138: Detected Priyal with confidence 0.36
+Face 139: Detected Mahir with confidence 0.36
+Face 140: Detected Mahir with confidence 0.33
+------ End of Batch ------
+Face 141: Detected Mahir with confidence 0.30
+Face 142: Detected Mahir with confidence 0.56
+Face 143: Detected Mahir with confidence 0.32
+Face 144: Detected Mahir with confidence 0.53
+Face 145: Alert - Not in data (best score: 0.24)
+Face 146: Alert - Not in data (best score: 0.27)
+Face 147: Detected Mahir with confidence 0.58
+Face 148: Detected Priyal with confidence 0.32
+Face 149: Detected Mahir with confidence 0.60
+Face 150: Detected Priyal with confidence 0.33
+------ End of Batch ------
+Face 151: Detected Mahir with confidence 0.65
+Face 152: Alert - Not in data (best score: 0.21)
+Face 153: Detected Mahir with confidence 0.72
+Face 154: Detected Mahir with confidence 0.73
+Face 155: Alert - Not in data (best score: 0.23)
+Face 156: Detected Mahir with confidence 0.65
+Face 157: Alert - Not in data (best score: 0.30)
+Face 158: Detected Mahir with confidence 0.76
+Face 159: Alert - Not in data (best score: 0.23)
+Face 160: Detected Mahir with confidence 0.75
+------ End of Batch ------
+Face 161: Detected Priyal with confidence 0.31
+Face 162: Detected Mahir with confidence 0.78
+Face 163: Alert - Not in data (best score: 0.29)
+Face 164: Detected Mahir with confidence 0.82
+Face 165: Alert - Not in data (best score: 0.23)
+Face 166: Detected Mahir with confidence 0.83
+Face 167: Alert - Not in data (best score: 0.17)
+Face 168: Detected Mahir with confidence 0.85
+Face 169: Alert - Not in data (best score: 0.16)
+Face 170: Detected Mahir with confidence 0.82
+------ End of Batch ------
+Face 171: Alert - Not in data (best score: 0.17)
+Face 172: Detected Mahir with confidence 0.82
+Face 173: Alert - Not in data (best score: 0.20)
+Face 174: Detected Mahir with confidence 0.83
+Face 175: Alert - Not in data (best score: 0.19)
+Face 176: Detected Mahir with confidence 0.86
+Face 177: Alert - Not in data (best score: 0.17)
+Face 178: Detected Mahir with confidence 0.87
+Face 179: Alert - Not in data (best score: 0.14)
+Face 180: Detected Mahir with confidence 0.88
+------ End of Batch ------
+Face 181: Alert - Not in data (best score: 0.20)
+Face 182: Detected Mahir with confidence 0.87
+Face 183: Alert - Not in data (best score: 0.19)
+Face 184: Detected Mahir with confidence 0.88
+Face 185: Alert - Not in data (best score: 0.20)
+Face 186: Detected Mahir with confidence 0.89
+Face 187: Alert - Not in data (best score: 0.19)
+Face 188: Detected Mahir with confidence 0.85
+Face 189: Alert - Not in data (best score: 0.22)
+Face 190: Detected Mahir with confidence 0.87
+------ End of Batch ------
+Face 191: Alert - Not in data (best score: 0.18)
+Face 192: Detected Mahir with confidence 0.88
+Face 193: Alert - Not in data (best score: 0.16)
+Face 194: Detected Mahir with confidence 0.87
+Face 195: Alert - Not in data (best score: 0.17)
+Face 196: Detected Mahir with confidence 0.86
+Face 197: Alert - Not in data (best score: 0.20)
+Face 198: Detected Mahir with confidence 0.87
+Face 199: Alert - Not in data (best score: 0.22)
+Face 200: Detected Mahir with confidence 0.91
+------ End of Batch ------
+Face 201: Alert - Not in data (best score: 0.19)
+Face 202: Detected Mahir with confidence 0.87
+Face 203: Alert - Not in data (best score: 0.17)
+Face 204: Detected Mahir with confidence 0.85
+Face 205: Alert - Not in data (best score: 0.15)
+Face 206: Detected Mahir with confidence 0.87
+Face 207: Alert - Not in data (best score: 0.15)
+Face 208: Detected Mahir with confidence 0.83
+Face 209: Alert - Not in data (best score: 0.18)
+Face 210: Detected Mahir with confidence 0.87
+------ End of Batch ------
+Face 211: Alert - Not in data (best score: 0.20)
+Face 212: Detected Mahir with confidence 0.85
+Face 213: Alert - Not in data (best score: 0.13)
+Face 214: Detected Mahir with confidence 0.84
+Face 215: Alert - Not in data (best score: 0.21)
+Face 216: Detected Mahir with confidence 0.82
+Face 217: Alert - Not in data (best score: 0.18)
+Face 218: Detected Mahir with confidence 0.81
+Face 219: Alert - Not in data (best score: 0.15)
+Face 220: Detected Mahir with confidence 0.80
+------ End of Batch ------
+Face 221: Alert - Not in data (best score: 0.21)
+Face 222: Detected Mahir with confidence 0.83
+Face 223: Alert - Not in data (best score: 0.23)
+Face 224: Detected Mahir with confidence 0.86
+Face 225: Alert - Not in data (best score: 0.13)
+Face 226: Detected Mahir with confidence 0.87
+Face 227: Alert - Not in data (best score: 0.19)
+Face 228: Detected Mahir with confidence 0.84
+Face 229: Alert - Not in data (best score: 0.26)
+Face 230: Detected Mahir with confidence 0.85
+------ End of Batch ------
+Face 231: Alert - Not in data (best score: 0.16)
+Face 232: Detected Mahir with confidence 0.87
+Face 233: Alert - Not in data (best score: 0.15)
+Face 234: Detected Mahir with confidence 0.85
+Face 235: Alert - Not in data (best score: 0.20)
+Face 236: Detected Mahir with confidence 0.85
+Face 237: Alert - Not in data (best score: 0.15)
+Face 238: Detected Mahir with confidence 0.86
+Face 239: Alert - Not in data (best score: 0.16)
+Face 240: Detected Mahir with confidence 0.84
+------ End of Batch ------
+Face 241: Alert - Not in data (best score: 0.13)
+Face 242: Detected Mahir with confidence 0.84
+Face 243: Alert - Not in data (best score: 0.16)
+Face 244: Detected Mahir with confidence 0.85
+Face 245: Alert - Not in data (best score: 0.17)
+Face 246: Detected Mahir with confidence 0.87
+Face 247: Alert - Not in data (best score: 0.27)
+Face 248: Detected Mahir with confidence 0.86
+Face 249: Alert - Not in data (best score: 0.27)
+Face 250: Detected Mahir with confidence 0.85
+------ End of Batch ------
+Face 251: Alert - Not in data (best score: 0.20)
+Face 252: Detected Mahir with confidence 0.84
+Face 253: Alert - Not in data (best score: 0.17)
+Face 254: Detected Mahir with confidence 0.82
+Face 255: Alert - Not in data (best score: 0.24)
+Face 256: Detected Mahir with confidence 0.84
+Face 257: Alert - Not in data (best score: 0.16)
+Face 258: Detected Mahir with confidence 0.84
+Face 259: Alert - Not in data (best score: 0.15)
+Face 260: Detected Mahir with confidence 0.84
+------ End of Batch ------
+Face 261: Alert - Not in data (best score: 0.15)
+Face 262: Alert - Not in data (best score: 0.17)
+Face 263: Detected Mahir with confidence 0.83
+Face 264: Alert - Not in data (best score: 0.14)
+Face 265: Detected Mahir with confidence 0.85
+Face 266: Alert - Not in data (best score: 0.22)
+Face 267: Detected Mahir with confidence 0.83
+Face 268: Alert - Not in data (best score: 0.25)
+Face 269: Detected Mahir with confidence 0.80
+Face 270: Alert - Not in data (best score: 0.22)
+------ End of Batch ------
+Face 271: Detected Mahir with confidence 0.80
+Face 272: Alert - Not in data (best score: 0.24)
+Face 273: Detected Mahir with confidence 0.80
+Face 274: Alert - Not in data (best score: 0.19)
+Face 275: Detected Mahir with confidence 0.83
+Face 276: Alert - Not in data (best score: 0.23)
+Face 277: Detected Mahir with confidence 0.82
+Face 278: Alert - Not in data (best score: 0.27)
+Face 279: Detected Mahir with confidence 0.79
+Face 280: Alert - Not in data (best score: 0.29)
+------ End of Batch ------
+Face 281: Detected Mahir with confidence 0.82
+Face 282: Alert - Not in data (best score: 0.25)
+Face 283: Detected Mahir with confidence 0.82
+Face 284: Alert - Not in data (best score: 0.26)
+Face 285: Detected Mahir with confidence 0.83
+Face 286: Alert - Not in data (best score: 0.21)
+Face 287: Detected Mahir with confidence 0.80
+Face 288: Alert - Not in data (best score: 0.16)
+Face 289: Detected Mahir with confidence 0.76
+Face 290: Alert - Not in data (best score: 0.14)
+------ End of Batch ------
+Face 291: Detected Mahir with confidence 0.74
+Face 292: Alert - Not in data (best score: 0.21)
+Face 293: Detected Mahir with confidence 0.64
+Face 294: Alert - Not in data (best score: 0.13)
+Face 295: Detected Mahir with confidence 0.68
+Face 296: Detected Mahir with confidence 0.73
+Face 297: Alert - Not in data (best score: 0.14)
+Face 298: Detected Mahir with confidence 0.71
+Face 299: Alert - Not in data (best score: 0.16)
+Face 300: Detected Mahir with confidence 0.70
+------ End of Batch ------
+Face 301: Alert - Not in data (best score: 0.11)
+Face 302: Alert - Not in data (best score: -0.02)
+Face 303: Detected Mahir with confidence 0.69
+Face 304: Alert - Not in data (best score: 0.15)
+Face 305: Alert - Not in data (best score: 0.08)
+Face 306: Detected Mahir with confidence 0.68
+Face 307: Alert - Not in data (best score: 0.19)
+Face 308: Detected Mahir with confidence 0.70
+Face 309: Alert - Not in data (best score: 0.16)
+Face 310: Detected Mahir with confidence 0.74
+------ End of Batch ------
+Face 311: Alert - Not in data (best score: 0.17)
+Face 312: Detected Mahir with confidence 0.73
+Face 313: Alert - Not in data (best score: 0.13)
+Face 314: Detected Mahir with confidence 0.73
+Face 315: Alert - Not in data (best score: 0.21)
+Face 316: Detected Mahir with confidence 0.71
+Face 317: Detected Mahir with confidence 0.74
+Face 318: Alert - Not in data (best score: 0.18)
+Face 319: Detected Mahir with confidence 0.72
+Face 320: Alert - Not in data (best score: 0.20)
+------ End of Batch ------
+Face 321: Detected Mahir with confidence 0.74
+Face 322: Alert - Not in data (best score: 0.22)
+Face 323: Detected Mahir with confidence 0.76
+Face 324: Alert - Not in data (best score: 0.27)
+Face 325: Detected Mahir with confidence 0.74
+Face 326: Alert - Not in data (best score: 0.21)
+Face 327: Detected Mahir with confidence 0.76
+Face 328: Detected Mahir with confidence 0.74
+Face 329: Alert - Not in data (best score: 0.21)
+Face 330: Detected Mahir with confidence 0.67
+------ End of Batch ------
+Face 331: Alert - Not in data (best score: 0.28)
+Face 332: Detected Mahir with confidence 0.66
+Face 333: Detected Mahir with confidence 0.64
+Face 334: Detected Mahir with confidence 0.55
+Face 335: Detected Mahir with confidence 0.62
+Face 336: Detected Priyal with confidence 0.42
+Face 337: Detected Mahir with confidence 0.77
+Face 338: Detected Priyal with confidence 0.30
+Face 339: Detected Mahir with confidence 0.68
+Face 340: Detected Priyal with confidence 0.39
+------ End of Batch ------
+Face 341: Detected Mahir with confidence 0.71
+Face 342: Detected Priyal with confidence 0.33
+Face 343: Detected Mahir with confidence 0.76
+Face 344: Detected Priyal with confidence 0.36
+Face 345: Detected Mahir with confidence 0.79
+Face 346: Detected Priyal with confidence 0.47
+Face 347: Detected Mahir with confidence 0.68
+Face 348: Detected Mahir with confidence 0.43
+Face 349: Detected Mahir with confidence 0.62
+Face 350: Detected Mahir with confidence 0.46
+------ End of Batch ------
+Face 351: Detected Mahir with confidence 0.63
+Face 352: Detected Mahir with confidence 0.45
+Face 353: Detected Mahir with confidence 0.58
+Face 354: Detected Priyal with confidence 0.36
+Face 355: Detected Mahir with confidence 0.68
+Face 356: Detected Mahir with confidence 0.41
+Face 357: Detected Mahir with confidence 0.71
+Face 358: Alert - Not in data (best score: 0.30)
+Face 359: Alert - Not in data (best score: 0.25)
+Face 360: Detected Mahir with confidence 0.76
+------ End of Batch ------
+Face 361: Alert - Not in data (best score: 0.30)
+Face 362: Detected Mahir with confidence 0.70
+Face 363: Alert - Not in data (best score: 0.22)
+Face 364: Detected Mahir with confidence 0.73
+Face 365: Alert - Not in data (best score: 0.23)
+Face 366: Detected Mahir with confidence 0.75
+Face 367: Alert - Not in data (best score: 0.29)
+Face 368: Detected Mahir with confidence 0.76
+Face 369: Detected Priyal with confidence 0.54
+Face 370: Detected Mahir with confidence 0.78
+------ End of Batch ------
+Face 371: Detected Priyal with confidence 0.37
+Face 372: Detected Mahir with confidence 0.77
+Face 373: Detected Mahir with confidence 0.46
+Face 374: Detected Mahir with confidence 0.79
+Face 375: Detected Mahir with confidence 0.38
+Face 376: Detected Mahir with confidence 0.68
+Face 377: Detected Mahir with confidence 0.45
+Face 378: Detected Mahir with confidence 0.68
+Face 379: Detected Priyal with confidence 0.30
+Face 380: Detected Mahir with confidence 0.67
+------ End of Batch ------
+Face 381: Detected Mahir with confidence 0.42
+Face 382: Detected Mahir with confidence 0.80
+Face 383: Detected Priyal with confidence 0.44
+Face 384: Detected Mahir with confidence 0.77
+Face 385: Detected Priyal with confidence 0.52
+Face 386: Alert - Not in data (best score: 0.15)
+Face 387: Detected Mahir with confidence 0.71
+Face 388: Detected Priyal with confidence 0.54
+Face 389: Detected Mahir with confidence 0.71
+Face 390: Detected Priyal with confidence 0.48
+------ End of Batch ------
+Face 391: Detected Mahir with confidence 0.62
+Face 392: Detected Priyal with confidence 0.39
+Face 393: Alert - Not in data (best score: 0.07)
+Face 394: Detected Mahir with confidence 0.64
+Face 395: Detected Mahir with confidence 0.36
+Face 396: Detected Mahir with confidence 0.60
+Face 397: Alert - Not in data (best score: 0.27)
+Face 398: Detected Mahir with confidence 0.62
+Face 399: Alert - Not in data (best score: 0.23)
+Face 400: Alert - Not in data (best score: 0.25)
+------ End of Batch ------
+Face 401: Detected Mahir with confidence 0.68
+Face 402: Detected Mahir with confidence 0.61
+Face 403: Detected Mahir with confidence 0.70
+Face 404: Detected Priyal with confidence 0.33
+Face 405: Detected Mahir with confidence 0.70
+Face 406: Detected Priyal with confidence 0.31
+Face 407: Detected Mahir with confidence 0.66
+Face 408: Detected Mahir with confidence 0.71
+Face 409: Detected Mahir with confidence 0.65
+Face 410: Detected Mahir with confidence 0.66
+------ End of Batch ------
+Face 411: Detected Mahir with confidence 0.65
+Face 412: Detected Mahir with confidence 0.50
+Face 413: Detected Mahir with confidence 0.57
+Face 414: Detected Manan with confidence 0.50
+Face 415: Detected Mahir with confidence 0.43
+Face 416: Detected Priyal with confidence 0.51
+Face 417: Detected Mahir with confidence 0.58
+Face 418: Detected Priyal with confidence 0.53
+Face 419: Detected Mahir with confidence 0.74
+Face 420: Detected Priyal with confidence 0.53
+------ End of Batch ------
+Face 421: Alert - Not in data (best score: 0.20)
+Face 422: Detected Mahir with confidence 0.69
+Face 423: Detected Priyal with confidence 0.56
+Face 424: Detected Mahir with confidence 0.68
+Face 425: Alert - Not in data (best score: 0.02)
+Face 426: Detected Mahir with confidence 0.55
+Face 427: Detected Mahir with confidence 0.59
+Face 428: Detected Mahir with confidence 0.58
+Face 429: Detected Manan with confidence 0.49
+Face 430: Detected Mahir with confidence 0.59
+------ End of Batch ------
+Face 431: Detected Mahir with confidence 0.66
+Face 432: Detected Mahir with confidence 0.62
+Face 433: Alert - Not in data (best score: 0.24)
+Face 434: Detected Mahir with confidence 0.64
+Face 435: Detected Mahir with confidence 0.70
+Face 436: Detected Priyal with confidence 0.33
+Face 437: Detected Mahir with confidence 0.71
+Face 438: Alert - Not in data (best score: 0.25)
+Face 439: Detected Mahir with confidence 0.75
+Face 440: Alert - Not in data (best score: 0.10)
+------ End of Batch ------
+Face 441: Detected Mahir with confidence 0.76
+Face 442: Alert - Not in data (best score: 0.28)
+Face 443: Alert - Not in data (best score: 0.09)
+Face 444: Detected Mahir with confidence 0.69
+Face 445: Detected Mahir with confidence 0.33
+Face 446: Detected Mahir with confidence 0.72
+Face 447: Detected Mahir with confidence 0.74
+Face 448: Detected Mahir with confidence 0.74
+Face 449: Detected Mahir with confidence 0.75
+Face 450: Detected Mahir with confidence 0.74
+------ End of Batch ------
+Face 451: Detected Mahir with confidence 0.78
+Face 452: Detected Mahir with confidence 0.76
+Face 453: Detected Mahir with confidence 0.81
+Face 454: Detected Mahir with confidence 0.83
+Face 455: Detected Mahir with confidence 0.83
+Face 456: Detected Mahir with confidence 0.62
+Face 457: Detected Mahir with confidence 0.69
+Face 458: Detected Mahir with confidence 0.78
+Face 459: Detected Mahir with confidence 0.61
+Face 460: Detected Mahir with confidence 0.71
+------ End of Batch ------
+Face 461: Detected Mahir with confidence 0.67
+Face 462: Detected Mahir with confidence 0.51
+Face 463: Detected Mahir with confidence 0.71
+Face 464: Alert - Not in data (best score: 0.29)
+Face 465: Detected Mahir with confidence 0.60
+Face 466: Alert - Not in data (best score: 0.17)
+Face 467: Detected Mahir with confidence 0.58
+Face 468: Alert - Not in data (best score: 0.13)
+Face 469: Detected Mahir with confidence 0.70
+Face 470: Alert - Not in data (best score: 0.10)
+------ End of Batch ------
+Face 471: Detected Mahir with confidence 0.61
+Face 472: Alert - Not in data (best score: 0.13)
+Face 473: Detected Mahir with confidence 0.59
+Face 474: Alert - Not in data (best score: 0.20)
+Face 475: Detected Mahir with confidence 0.61
+Face 476: Alert - Not in data (best score: 0.22)
+Face 477: Detected Mahir with confidence 0.64
+Face 478: Alert - Not in data (best score: 0.21)
+Face 479: Detected Mahir with confidence 0.50
+Face 480: Alert - Not in data (best score: 0.21)
+------ End of Batch ------
+Face 481: Detected Mahir with confidence 0.58
+Face 482: Detected Priyal with confidence 0.39
+Face 483: Detected Mahir with confidence 0.51
+Face 484: Detected Mahir with confidence 0.38
+Face 485: Detected Mahir with confidence 0.50
+Face 486: Detected Mahir with confidence 0.34
+Face 487: Detected Mahir with confidence 0.49
+Face 488: Detected Mahir with confidence 0.41
+Face 489: Alert - Not in data (best score: 0.28)
+Face 490: Alert - Not in data (best score: 0.25)
+------ End of Batch ------
+Face 491: Detected Mahir with confidence 0.42
+Face 492: Alert - Not in data (best score: 0.24)
+Face 493: Detected Mahir with confidence 0.44
+Face 494: Alert - Not in data (best score: 0.25)
+Face 495: Detected Mahir with confidence 0.41
+Face 496: Detected Priyal with confidence 0.31
+Face 497: Alert - Not in data (best score: 0.28)
+Face 498: Detected Mahir with confidence 0.33
+Face 499: Detected Mahir with confidence 0.40
+Face 500: Alert - Not in data (best score: 0.20)
+------ End of Batch ------
+Face 501: Alert - Not in data (best score: 0.24)
+Face 502: Detected Mahir with confidence 0.68
+Face 503: Alert - Not in data (best score: 0.19)
+Face 504: Alert - Not in data (best score: 0.20)
+Face 505: Detected Mahir with confidence 0.66
+Face 506: Alert - Not in data (best score: 0.20)
+Face 507: Detected Mahir with confidence 0.30
+Face 508: Alert - Not in data (best score: 0.22)
+Face 509: Detected Mahir with confidence 0.55
+Face 510: Alert - Not in data (best score: 0.20)
+------ End of Batch ------
+Face 511: Detected Mahir with confidence 0.45
+Face 512: Detected Priyal with confidence 0.43
+Face 513: Detected Mahir with confidence 0.58
+Face 514: Detected Priyal with confidence 0.30
+Face 515: Detected Mahir with confidence 0.55
+Face 516: Detected Mahir with confidence 0.34
+Face 517: Detected Mahir with confidence 0.41
+Face 518: Detected Priyal with confidence 0.52
+Face 519: Detected Mahir with confidence 0.40
+Face 520: Detected Priyal with confidence 0.33
+------ End of Batch ------
+Face 521: Detected Mahir with confidence 0.36
+Face 522: Detected Priyal with confidence 0.38
+Face 523: Detected Mahir with confidence 0.34
+Face 524: Alert - Not in data (best score: 0.16)
+Face 525: Detected Mahir with confidence 0.40
+Face 526: Alert - Not in data (best score: 0.23)
+Face 527: Alert - Not in data (best score: 0.27)
+Face 528: Alert - Not in data (best score: 0.16)
+Face 529: Detected Mahir with confidence 0.31
+Face 530: Alert - Not in data (best score: 0.12)
+------ End of Batch ------
+Face 531: Alert - Not in data (best score: 0.25)
+Face 532: Detected Mahir with confidence 0.52
+Face 533: Detected Mahir with confidence 0.40
+Face 534: Detected Mahir with confidence 0.39
+Face 535: Detected Mahir with confidence 0.56
+Face 536: Detected Mahir with confidence 0.42
+Face 537: Alert - Not in data (best score: 0.16)
+Face 538: Alert - Not in data (best score: 0.11)
+Face 539: Alert - Not in data (best score: 0.19)
+Face 540: Alert - Not in data (best score: 0.22)
+------ End of Batch ------
+Face 541: Detected Mahir with confidence 0.43
+Face 542: Alert - Not in data (best score: 0.26)
+Face 543: Detected Mahir with confidence 0.31
+Face 544: Detected Mahir with confidence 0.34
+Face 545: Detected Mahir with confidence 0.36
+Face 546: Detected Manan with confidence 0.31
+Face 547: Detected Manan with confidence 0.38
+Face 548: Detected Manan with confidence 0.35
+Face 549: Detected Mahir with confidence 0.70
+Face 550: Alert - Not in data (best score: 0.15)
+------ End of Batch ------
+Face 551: Alert - Not in data (best score: 0.30)
+Face 552: Alert - Not in data (best score: 0.19)
+Face 553: Alert - Not in data (best score: 0.18)
+Face 554: Alert - Not in data (best score: 0.26)
+Face 555: Alert - Not in data (best score: 0.23)
+Face 556: Alert - Not in data (best score: 0.24)
+Face 557: Detected Mahir with confidence 0.45
+Face 558: Detected Mahir with confidence 0.40
+Face 559: Detected Manan with confidence 0.38
+Face 560: Detected Mahir with confidence 0.38
+------ End of Batch ------
+Face 561: Detected Manan with confidence 0.59
+Face 562: Detected Priyal with confidence 0.33
+Face 563: Detected Mahir with confidence 0.39
+Face 564: Alert - Not in data (best score: 0.22)
+Face 565: Alert - Not in data (best score: 0.27)
+Face 566: Detected Manan with confidence 0.57
+Face 567: Alert - Not in data (best score: 0.21)
+Face 568: Alert - Not in data (best score: 0.23)
+Face 569: Alert - Not in data (best score: 0.15)
+Face 570: Alert - Not in data (best score: 0.24)
+------ End of Batch ------
+Face 571: Alert - Not in data (best score: 0.19)
+Face 572: Detected Manan with confidence 0.42
+Face 573: Detected Manan with confidence 0.60
+Face 574: Detected Manan with confidence 0.61
+Face 575: Detected Manan with confidence 0.63
+Face 576: Detected Mahir with confidence 0.39
+Face 577: Alert - Not in data (best score: 0.20)
+Face 578: Detected Mahir with confidence 0.57
+Face 579: Alert - Not in data (best score: 0.22)
+Face 580: Detected Mahir with confidence 0.49
+------ End of Batch ------
+Face 581: Detected Mahir with confidence 0.48
+Face 582: Detected Mahir with confidence 0.36
+Face 583: Alert - Not in data (best score: 0.29)
+Face 584: Detected Mahir with confidence 0.41
+Face 585: Detected Mahir with confidence 0.42
+Face 586: Detected Mahir with confidence 0.42
+Face 587: Alert - Not in data (best score: 0.29)
+Face 588: Detected Mahir with confidence 0.43
+Face 589: Alert - Not in data (best score: 0.28)
+Face 590: Detected Mahir with confidence 0.50
+------ End of Batch ------
+Face 591: Detected Mahir with confidence 0.48
+Face 592: Detected Mahir with confidence 0.39
+Face 593: Detected Mahir with confidence 0.42
+Face 594: Detected Mahir with confidence 0.38
+Face 595: Detected Mahir with confidence 0.46
+Face 596: Detected Mahir with confidence 0.41
+Face 597: Detected Mahir with confidence 0.62
+Face 598: Detected Mahir with confidence 0.53
+Face 599: Detected Mahir with confidence 0.58
+Face 600: Detected Mahir with confidence 0.72
+------ End of Batch ------
+Face 601: Detected Mahir with confidence 0.73
+Face 602: Detected Mahir with confidence 0.64
+Face 603: Detected Mahir with confidence 0.66
+Face 604: Detected Priyal with confidence 0.47
+Face 605: Detected Mahir with confidence 0.47
+Face 606: Detected Mahir with confidence 0.37
+Face 607: Detected Mahir with confidence 0.55
+Face 608: Detected Mahir with confidence 0.63
+Face 609: Alert - Not in data (best score: 0.14)
+Face 610: Detected Mahir with confidence 0.64
+------ End of Batch ------
+Face 611: Alert - Not in data (best score: 0.16)
+Face 612: Detected Mahir with confidence 0.61
+Face 613: Alert - Not in data (best score: 0.16)
+Face 614: Detected Mahir with confidence 0.63
+Face 615: Detected Priyal with confidence 0.41
+Face 616: Detected Mahir with confidence 0.55
+Face 617: Detected Priyal with confidence 0.44
+Face 618: Detected Mahir with confidence 0.56
+Face 619: Detected Priyal with confidence 0.47
+Face 620: Alert - Not in data (best score: 0.27)
+------ End of Batch ------
+Face 621: Detected Mahir with confidence 0.57
+Face 622: Detected Priyal with confidence 0.37
+Face 623: Detected Mahir with confidence 0.58
+Face 624: Detected Priyal with confidence 0.40
+Face 625: Alert - Not in data (best score: 0.23)
+Face 626: Detected Mahir with confidence 0.57
+Face 627: Detected Mahir with confidence 0.51
+Face 628: Alert - Not in data (best score: 0.17)
+Face 629: Alert - Not in data (best score: 0.20)
+Face 630: Detected Priyal with confidence 0.42
+------ End of Batch ------
+Face 631: Detected Priyal with confidence 0.35
+Face 632: Detected Mahir with confidence 0.62
+Face 633: Detected Mahir with confidence 0.45
+Face 634: Detected Priyal with confidence 0.39
+Face 635: Detected Mahir with confidence 0.54
+Face 636: Detected Priyal with confidence 0.35
+Face 637: Detected Mahir with confidence 0.44
+Face 638: Alert - Not in data (best score: 0.27)
+Face 639: Alert - Not in data (best score: 0.29)
+Face 640: Alert - Not in data (best score: 0.23)
+------ End of Batch ------
+Face 641: Detected Priyal with confidence 0.39
+Face 642: Detected Mahir with confidence 0.56
+Face 643: Alert - Not in data (best score: 0.22)
+Face 644: Detected Mahir with confidence 0.66
+Face 645: Alert - Not in data (best score: 0.27)
+Face 646: Detected Mahir with confidence 0.67
+Face 647: Detected Mahir with confidence 0.68
+Face 648: Detected Priyal with confidence 0.31
+Face 649: Detected Mahir with confidence 0.57
+Face 650: Detected Mahir with confidence 0.46
+------ End of Batch ------
+Face 651: Detected Mahir with confidence 0.44
+Face 652: Alert - Not in data (best score: 0.28)
+Face 653: Detected Priyal with confidence 0.31
+Face 654: Alert - Not in data (best score: 0.29)
+Face 655: Alert - Not in data (best score: 0.12)
+Face 656: Alert - Not in data (best score: 0.29)
+Face 657: Alert - Not in data (best score: 0.29)
+Face 658: Alert - Not in data (best score: 0.23)
+Face 659: Alert - Not in data (best score: 0.24)
+Face 660: Alert - Not in data (best score: 0.25)
+------ End of Batch ------
+Face 661: Alert - Not in data (best score: 0.28)
+Face 662: Detected Priyal with confidence 0.31
+Face 663: Alert - Not in data (best score: 0.21)
+Face 664: Detected Priyal with confidence 0.31
+Face 665: Alert - Not in data (best score: 0.29)
+Face 666: Alert - Not in data (best score: 0.28)
+Face 667: Alert - Not in data (best score: 0.18)
+Face 668: Alert - Not in data (best score: 0.27)
+Face 669: Alert - Not in data (best score: 0.21)
+Face 670: Detected Mahir with confidence 0.44
+------ End of Batch ------
+Face 671: Alert - Not in data (best score: 0.25)
+Face 672: Detected Mahir with confidence 0.32
+Face 673: Detected Mahir with confidence 0.30
+Face 674: Alert - Not in data (best score: 0.23)
+Face 675: Detected Mahir with confidence 0.32
+Face 676: Alert - Not in data (best score: 0.15)
+Face 677: Alert - Not in data (best score: 0.23)
+Face 678: Alert - Not in data (best score: 0.18)
+Face 679: Alert - Not in data (best score: 0.27)
+Face 680: Alert - Not in data (best score: 0.26)
+------ End of Batch ------
+Face 681: Alert - Not in data (best score: 0.20)
+Face 682: Detected Mahir with confidence 0.33
+Face 683: Alert - Not in data (best score: 0.22)
+Face 684: Alert - Not in data (best score: 0.12)
+Face 685: Alert - Not in data (best score: 0.25)
+Face 686: Alert - Not in data (best score: 0.21)
+Face 687: Alert - Not in data (best score: 0.26)
+Face 688: Detected Priyal with confidence 0.30
+Face 689: Alert - Not in data (best score: 0.13)
+Face 690: Alert - Not in data (best score: 0.24)
+------ End of Batch ------
+Face 691: Detected Priyal with confidence 0.33
+Face 692: Alert - Not in data (best score: 0.26)
+Face 693: Alert - Not in data (best score: 0.27)
+Face 694: Alert - Not in data (best score: 0.26)
+Face 695: Alert - Not in data (best score: 0.15)
+Face 696: Detected Mahir with confidence 0.31
+Face 697: Alert - Not in data (best score: 0.18)
+Face 698: Alert - Not in data (best score: 0.24)
+Face 699: Alert - Not in data (best score: 0.15)
+Face 700: Alert - Not in data (best score: 0.24)
+------ End of Batch ------
+Face 701: Alert - Not in data (best score: 0.20)
+Face 702: Alert - Not in data (best score: 0.30)
+Face 703: Alert - Not in data (best score: 0.17)
+Face 704: Alert - Not in data (best score: 0.27)
+Face 705: Alert - Not in data (best score: 0.17)
+Face 706: Alert - Not in data (best score: 0.26)
+Face 707: Alert - Not in data (best score: 0.18)
+Face 708: Alert - Not in data (best score: 0.27)
+Face 709: Detected Mahir with confidence 0.31
+Face 710: Alert - Not in data (best score: 0.24)
+------ End of Batch ------
+Face 711: Detected Priyal with confidence 0.35
+Face 712: Alert - Not in data (best score: 0.17)
+Face 713: Detected Mahir with confidence 0.45
+Face 714: Detected Priyal with confidence 0.34
+Face 715: Alert - Not in data (best score: 0.26)
+Face 716: Detected Mahir with confidence 0.38
+Face 717: Alert - Not in data (best score: 0.24)
+Face 718: Detected Mahir with confidence 0.45
+Face 719: Alert - Not in data (best score: 0.26)
+Face 720: Alert - Not in data (best score: 0.28)
+------ End of Batch ------
+Face 721: Detected Mahir with confidence 0.38
+Face 722: Alert - Not in data (best score: 0.29)
+Face 723: Alert - Not in data (best score: 0.21)
+Face 724: Detected Mahir with confidence 0.52
+Face 725: Detected Manan with confidence 0.38
+Face 726: Detected Mahir with confidence 0.63
+Face 727: Detected Mahir with confidence 0.56
+Face 728: Detected Mahir with confidence 0.68
+Face 729: Detected Manan with confidence 0.63
+Face 730: Detected Mahir with confidence 0.75
+------ End of Batch ------
+Face 731: Detected Mahir with confidence 0.77
+Face 732: Detected Mahir with confidence 0.84
+Face 733: Detected Mahir with confidence 0.75
+Face 734: Detected Mahir with confidence 0.50
+Face 735: Alert - Not in data (best score: 0.16)
+Face 736: Detected Mahir with confidence 0.38
+Face 737: Alert - Not in data (best score: 0.29)
+Face 738: Detected Manan with confidence 0.31
+Face 739: Detected Mahir with confidence 0.35
+Face 740: Alert - Not in data (best score: 0.15)
+------ End of Batch ------
+Face 741: Detected Mahir with confidence 0.46
+Face 742: Alert - Not in data (best score: 0.14)
+Face 743: Alert - Not in data (best score: 0.25)
+Face 744: Detected Mahir with confidence 0.44
+Face 745: Detected Mahir with confidence 0.33
+Face 746: Detected Mahir with confidence 0.52
+Face 747: Detected Mahir with confidence 0.37
+Face 748: Detected Mahir with confidence 0.42
+Face 749: Detected Manan with confidence 0.35
+Face 750: Detected Manan with confidence 0.49
+------ End of Batch ------
+Face 751: Detected Manan with confidence 0.56
+Face 752: Detected Manan with confidence 0.54
+Face 753: Detected Manan with confidence 0.55
+Face 754: Detected Mahir with confidence 0.55
+Face 755: Detected Mahir with confidence 0.59
+Face 756: Alert - Not in data (best score: 0.14)
+Face 757: Alert - Not in data (best score: 0.12)
+Face 758: Detected Mahir with confidence 0.77
+Face 759: Alert - Not in data (best score: 0.26)
+Face 760: Detected Mahir with confidence 0.67
+------ End of Batch ------
+Face 761: Detected Mahir with confidence 0.67
+Face 762: Detected Mahir with confidence 0.60
+Face 763: Detected Mahir with confidence 0.65
+Face 764: Alert - Not in data (best score: 0.24)
+Face 765: Detected Mahir with confidence 0.51
+Face 766: Detected Mahir with confidence 0.35
+Face 767: Detected Mahir with confidence 0.43
+Face 768: Detected Mahir with confidence 0.50
+Face 769: Detected Priyal with confidence 0.32
+Face 770: Detected Mahir with confidence 0.65
+------ End of Batch ------
+Face 771: Detected Mahir with confidence 0.77
+Face 772: Alert - Not in data (best score: 0.19)
+Face 773: Detected Mahir with confidence 0.60
+Face 774: Detected Mahir with confidence 0.67
+Face 775: Detected Mahir with confidence 0.69
+Face 776: Alert - Not in data (best score: 0.14)
+Face 777: Detected Mahir with confidence 0.42
+Face 778: Detected Mahir with confidence 0.37
+Face 779: Detected Mahir with confidence 0.36
+Face 780: Alert - Not in data (best score: 0.24)
+------ End of Batch ------
+Face 781: Detected Mahir with confidence 0.40
+Face 782: Detected Mahir with confidence 0.39
+Face 783: Detected Mahir with confidence 0.37
+Face 784: Detected Mahir with confidence 0.35
+Face 785: Detected Mahir with confidence 0.64
+Face 786: Detected Mahir with confidence 0.59
+Face 787: Detected Mahir with confidence 0.44
+Face 788: Alert - Not in data (best score: 0.19)
+Face 789: Alert - Not in data (best score: 0.12)
+Face 790: Detected Mahir with confidence 0.54
+------ End of Batch ------
+Face 791: Alert - Not in data (best score: 0.19)
+Face 792: Alert - Not in data (best score: 0.21)
+Face 793: Alert - Not in data (best score: 0.15)
+Face 794: Detected Priyal with confidence 0.32
+Face 795: Alert - Not in data (best score: 0.22)
+Face 796: Alert - Not in data (best score: 0.21)
+Face 797: Alert - Not in data (best score: 0.21)
+Face 798: Alert - Not in data (best score: 0.26)
+Face 799: Alert - Not in data (best score: 0.21)
+Face 800: Alert - Not in data (best score: 0.23)
+------ End of Batch ------
+Face 801: Detected Mahir with confidence 0.41
+Face 802: Alert - Not in data (best score: 0.25)
+Face 803: Detected Mahir with confidence 0.38
+Face 804: Alert - Not in data (best score: 0.29)
+Face 805: Detected Mahir with confidence 0.34
+Face 806: Alert - Not in data (best score: 0.27)
+Face 807: Alert - Not in data (best score: 0.26)
+Face 808: Alert - Not in data (best score: 0.29)
+Face 809: Detected Mahir with confidence 0.41
+Face 810: Detected Mahir with confidence 0.50
+------ End of Batch ------
+Face 811: Detected Mahir with confidence 0.32
+Face 812: Alert - Not in data (best score: 0.15)
+Face 813: Alert - Not in data (best score: 0.11)
+Face 814: Detected Manan with confidence 0.60
+Face 815: Detected Mahir with confidence 0.63
+Face 816: Detected Mahir with confidence 0.49
+Face 817: Detected Mahir with confidence 0.48
+Face 818: Detected Mahir with confidence 0.41
+Face 819: Detected Mahir with confidence 0.49
+Face 820: Detected Priyal with confidence 0.39
+------ End of Batch ------
+Face 821: Alert - Not in data (best score: 0.27)
+Face 822: Detected Manan with confidence 0.32
+Face 823: Alert - Not in data (best score: 0.25)
+Face 824: Alert - Not in data (best score: 0.22)
+Face 825: Alert - Not in data (best score: 0.23)
+Face 826: Alert - Not in data (best score: 0.24)
+Face 827: Alert - Not in data (best score: 0.24)
+Face 828: Detected Mahir with confidence 0.60
+Face 829: Detected Mahir with confidence 0.60
+Face 830: Alert - Not in data (best score: 0.14)
+------ End of Batch ------
+Face 831: Detected Mahir with confidence 0.64
+Face 832: Alert - Not in data (best score: 0.19)
+Face 833: Detected Mahir with confidence 0.43
+Face 834: Alert - Not in data (best score: 0.28)
+Face 835: Detected Mahir with confidence 0.55
+Face 836: Detected Mahir with confidence 0.32
+Face 837: Detected Mahir with confidence 0.33
+Face 838: Detected Mahir with confidence 0.35
+Face 839: Alert - Not in data (best score: 0.16)
+Face 840: Detected Mahir with confidence 0.56
+------ End of Batch ------
+Face 841: Alert - Not in data (best score: 0.18)
+Face 842: Detected Mahir with confidence 0.54
+Face 843: Detected Manan with confidence 0.37
+Face 844: Detected Mahir with confidence 0.61
+Face 845: Alert - Not in data (best score: 0.12)
+Face 846: Alert - Not in data (best score: 0.21)
+Face 847: Alert - Not in data (best score: 0.15)
+Face 848: Alert - Not in data (best score: 0.19)
+Face 849: Detected Mahir with confidence 0.56
+Face 850: Alert - Not in data (best score: 0.15)
+------ End of Batch ------
+Face 851: Detected Mahir with confidence 0.54
+Face 852: Detected Mahir with confidence 0.49
+Face 853: Alert - Not in data (best score: 0.20)
+Face 854: Detected Mahir with confidence 0.47
+Face 855: Alert - Not in data (best score: 0.15)
+Face 856: Detected Mahir with confidence 0.36
+Face 857: Detected Mahir with confidence 0.56
+Face 858: Detected Mahir with confidence 0.49
+Face 859: Alert - Not in data (best score: 0.23)
+Face 860: Alert - Not in data (best score: 0.24)
+------ End of Batch ------
+Face 861: Alert - Not in data (best score: 0.20)
+Face 862: Alert - Not in data (best score: 0.20)
+Face 863: Alert - Not in data (best score: 0.22)
+Face 864: Alert - Not in data (best score: 0.08)
+Face 865: Alert - Not in data (best score: 0.22)
+Face 866: Alert - Not in data (best score: 0.26)
+Face 867: Alert - Not in data (best score: 0.22)
+Face 868: Alert - Not in data (best score: 0.25)
+Face 869: Alert - Not in data (best score: 0.20)
+Face 870: Alert - Not in data (best score: 0.18)
+------ End of Batch ------
+Face 871: Alert - Not in data (best score: 0.17)
+Face 872: Alert - Not in data (best score: 0.23)
+Face 873: Alert - Not in data (best score: 0.27)
+Face 874: Alert - Not in data (best score: 0.20)
+Face 875: Alert - Not in data (best score: 0.20)
+Face 876: Alert - Not in data (best score: 0.30)
+Face 877: Detected Mahir with confidence 0.33
+Face 878: Detected Mahir with confidence 0.37
+Face 879: Alert - Not in data (best score: 0.09)
+Face 880: Alert - Not in data (best score: 0.29)
+------ End of Batch ------
+Face 881: Alert - Not in data (best score: 0.28)
+Face 882: Alert - Not in data (best score: 0.29)
+Face 883: Detected Mahir with confidence 0.30
+Face 884: Detected Mahir with confidence 0.37
+Face 885: Detected Mahir with confidence 0.61
+Face 886: Detected Mahir with confidence 0.49
+Face 887: Detected Mahir with confidence 0.48
+Face 888: Detected Mahir with confidence 0.59
+Face 889: Detected Manan with confidence 0.52
+Face 890: Detected Mahir with confidence 0.44
+------ End of Batch ------
+Face 891: Detected Mahir with confidence 0.63
+Face 892: Detected Mahir with confidence 0.70
+Face 893: Detected Mahir with confidence 0.59
+Face 894: Detected Mahir with confidence 0.66
+Face 895: Detected Mahir with confidence 0.63
+Face 896: Detected Mahir with confidence 0.64
+Face 897: Detected Mahir with confidence 0.36
+Face 898: Alert - Not in data (best score: 0.30)
+Face 899: Detected Mahir with confidence 0.50
+Face 900: Detected Mahir with confidence 0.54
+------ End of Batch ------
+Face 901: Detected Mahir with confidence 0.57
+Face 902: Detected Mahir with confidence 0.50
+Face 903: Detected Mahir with confidence 0.70
+Face 904: Detected Mahir with confidence 0.49
+Face 905: Detected Mahir with confidence 0.52
+Face 906: Alert - Not in data (best score: 0.08)
+Face 907: Detected Mahir with confidence 0.59
+Face 908: Detected Mahir with confidence 0.60
+Face 909: Detected Mahir with confidence 0.65
+Face 910: Detected Mahir with confidence 0.53
+------ End of Batch ------
+Face 911: Detected Mahir with confidence 0.63
+Face 912: Detected Mahir with confidence 0.47
+Face 913: Detected Mahir with confidence 0.55
+Face 914: Detected Mahir with confidence 0.68
+Face 915: Detected Mahir with confidence 0.66
+Face 916: Detected Mahir with confidence 0.63
+Face 917: Detected Mahir with confidence 0.48
+Face 918: Detected Mahir with confidence 0.72
+Face 919: Alert - Not in data (best score: 0.08)
+Face 920: Detected Mahir with confidence 0.54
+------ End of Batch ------
+Face 921: Detected Mahir with confidence 0.47
+Face 922: Alert - Not in data (best score: 0.25)
+Face 923: Alert - Not in data (best score: 0.11)
+Face 924: Detected Mahir with confidence 0.43
+Face 925: Alert - Not in data (best score: 0.10)
+Face 926: Alert - Not in data (best score: 0.29)
+Face 927: Alert - Not in data (best score: 0.28)
+Face 928: Alert - Not in data (best score: 0.13)
+Face 929: Alert - Not in data (best score: 0.24)
+Face 930: Alert - Not in data (best score: 0.16)
+------ End of Batch ------
+Face 931: Detected Mahir with confidence 0.37
+Face 932: Alert - Not in data (best score: 0.17)
+Face 933: Alert - Not in data (best score: 0.25)
+Face 934: Alert - Not in data (best score: 0.13)
+Face 935: Detected Mahir with confidence 0.46
+Face 936: Detected Mahir with confidence 0.32
+Face 937: Alert - Not in data (best score: 0.29)
+Face 938: Alert - Not in data (best score: 0.22)
+Face 939: Alert - Not in data (best score: 0.25)
+Face 940: Detected Mahir with confidence 0.34
+------ End of Batch ------
+Face 941: Detected Mahir with confidence 0.46
+Face 942: Detected Mahir with confidence 0.43
+Face 943: Alert - Not in data (best score: 0.24)
+Face 944: Detected Mahir with confidence 0.40
+Face 945: Alert - Not in data (best score: 0.21)
+Face 946: Detected Mahir with confidence 0.44
+Face 947: Alert - Not in data (best score: 0.01)
+Face 948: Detected Mahir with confidence 0.55
+Face 949: Detected Mahir with confidence 0.57
+Face 950: Detected Mahir with confidence 0.59
+------ End of Batch ------
+Face 951: Detected Mahir with confidence 0.59
+Face 952: Detected Mahir with confidence 0.68
+Face 953: Detected Mahir with confidence 0.69
+Face 954: Detected Mahir with confidence 0.59
+Face 955: Detected Mahir with confidence 0.70
+Face 956: Alert - Not in data (best score: 0.04)
+Face 957: Detected Mahir with confidence 0.71
+Face 958: Alert - Not in data (best score: 0.06)
+Face 959: Detected Mahir with confidence 0.76
+Face 960: Detected Mahir with confidence 0.67
+------ End of Batch ------
+Face 961: Detected Mahir with confidence 0.74
+Face 962: Detected Mahir with confidence 0.74
+Face 963: Detected Mahir with confidence 0.82
+Face 964: Detected Mahir with confidence 0.73
+Face 965: Detected Mahir with confidence 0.62
+Face 966: Detected Mahir with confidence 0.72
+Face 967: Detected Mahir with confidence 0.69
+Face 968: Detected Mahir with confidence 0.54
+Face 969: Detected Mahir with confidence 0.62
+Face 970: Detected Mahir with confidence 0.78
+------ End of Batch ------
+Face 971: Detected Mahir with confidence 0.80
+Face 972: Detected Mahir with confidence 0.77
+Face 973: Detected Mahir with confidence 0.76
+Face 974: Detected Mahir with confidence 0.75
+Face 975: Detected Mahir with confidence 0.77
+Face 976: Detected Mahir with confidence 0.77
+Face 977: Detected Mahir with confidence 0.77
+Face 978: Detected Mahir with confidence 0.76
+Face 979: Detected Mahir with confidence 0.84
+Face 980: Detected Mahir with confidence 0.83
+------ End of Batch ------
+Face 981: Detected Mahir with confidence 0.79
+Face 982: Detected Mahir with confidence 0.75
+Face 983: Alert - Not in data (best score: 0.24)
+Face 984: Detected Mahir with confidence 0.77
+Face 985: Detected Mahir with confidence 0.75
+Face 986: Detected Mahir with confidence 0.70
+Face 987: Detected Mahir with confidence 0.77
+Face 988: Detected Mahir with confidence 0.69
+Face 989: Detected Priyal with confidence 0.39
+Face 990: Detected Mahir with confidence 0.75
+------ End of Batch ------
+Face 991: Detected Mahir with confidence 0.77
+Face 992: Detected Mahir with confidence 0.77
+Face 993: Detected Mahir with confidence 0.78
+Face 994: Detected Mahir with confidence 0.75
+Face 995: Detected Mahir with confidence 0.77
+Face 996: Detected Mahir with confidence 0.78
+Face 997: Detected Mahir with confidence 0.77
+Face 998: Detected Mahir with confidence 0.78
+Face 999: Detected Mahir with confidence 0.79
+Face 1000: Detected Mahir with confidence 0.81
+------ End of Batch ------
+Face 1001: Detected Mahir with confidence 0.80
+Face 1002: Detected Mahir with confidence 0.81
+Face 1003: Detected Mahir with confidence 0.76
+Face 1004: Alert - Not in data (best score: 0.21)
+Face 1005: Detected Mahir with confidence 0.80
+Face 1006: Detected Mahir with confidence 0.80
+Face 1007: Detected Mahir with confidence 0.78
+Face 1008: Alert - Not in data (best score: 0.24)
+Face 1009: Alert - Not in data (best score: 0.28)
+Face 1010: Detected Mahir with confidence 0.77
+------ End of Batch ------
+Face 1011: Detected Manan with confidence 0.41
+Face 1012: Detected Mahir with confidence 0.82
+Face 1013: Detected Mahir with confidence 0.81
+Face 1014: Detected Mahir with confidence 0.57
+Face 1015: Detected Mahir with confidence 0.64
+Face 1016: Detected Mahir with confidence 0.55
+Face 1017: Detected Mahir with confidence 0.59
+Face 1018: Alert - Not in data (best score: 0.20)
+Face 1019: Detected Mahir with confidence 0.49
+Face 1020: Alert - Not in data (best score: 0.19)
+------ End of Batch ------
+Face 1021: Detected Mahir with confidence 0.74
+Face 1022: Alert - Not in data (best score: 0.27)
+Face 1023: Detected Mahir with confidence 0.74
+Face 1024: Alert - Not in data (best score: 0.19)
+Face 1025: Detected Mahir with confidence 0.75
+Face 1026: Alert - Not in data (best score: 0.26)
+Face 1027: Detected Mahir with confidence 0.68
+Face 1028: Alert - Not in data (best score: 0.16)
+Face 1029: Detected Mahir with confidence 0.67
+Face 1030: Alert - Not in data (best score: 0.17)
+------ End of Batch ------
+Face 1031: Detected Mahir with confidence 0.77
+Face 1032: Alert - Not in data (best score: 0.15)
+Face 1033: Detected Mahir with confidence 0.81
+Face 1034: Alert - Not in data (best score: 0.16)
+Face 1035: Detected Mahir with confidence 0.78
+Face 1036: Alert - Not in data (best score: 0.10)
+Face 1037: Detected Mahir with confidence 0.77
+Face 1038: Detected Mahir with confidence 0.76
+Face 1039: Alert - Not in data (best score: 0.12)
+Face 1040: Detected Mahir with confidence 0.71
+------ End of Batch ------
+Face 1041: Alert - Not in data (best score: 0.24)
+Face 1042: Detected Mahir with confidence 0.75
+Face 1043: Detected Mahir with confidence 0.74
+Face 1044: Detected Mahir with confidence 0.75
+Face 1045: Detected Mahir with confidence 0.78
+Face 1046: Detected Mahir with confidence 0.80
+Face 1047: Detected Mahir with confidence 0.77
+Face 1048: Detected Mahir with confidence 0.77
+Face 1049: Detected Mahir with confidence 0.72
+Face 1050: Detected Mahir with confidence 0.69
+------ End of Batch ------
+Face 1051: Detected Mahir with confidence 0.71
+Face 1052: Detected Mahir with confidence 0.70
+Face 1053: Alert - Not in data (best score: 0.23)
+Face 1054: Detected Mahir with confidence 0.72
+Face 1055: Alert - Not in data (best score: 0.23)
+Face 1056: Detected Mahir with confidence 0.72
+Face 1057: Alert - Not in data (best score: 0.11)
+Face 1058: Alert - Not in data (best score: 0.17)
+Face 1059: Detected Mahir with confidence 0.73
+Face 1060: Alert - Not in data (best score: 0.16)
+------ End of Batch ------
+Face 1061: Detected Mahir with confidence 0.72
+Face 1062: Alert - Not in data (best score: 0.18)
+Face 1063: Detected Mahir with confidence 0.74
+Face 1064: Detected Mahir with confidence 0.74
+Face 1065: Detected Mahir with confidence 0.76
+Face 1066: Detected Mahir with confidence 0.76
+Face 1067: Detected Mahir with confidence 0.65
+Face 1068: Detected Mahir with confidence 0.65
+Face 1069: Detected Manan with confidence 0.46
+Face 1070: Detected Mahir with confidence 0.62
+------ End of Batch ------
+Face 1071: Detected Mahir with confidence 0.49
+Face 1072: Detected Mahir with confidence 0.65
+Face 1073: Alert - Not in data (best score: 0.27)
+Face 1074: Detected Mahir with confidence 0.49
+Face 1075: Detected Priyal with confidence 0.35
+Face 1076: Detected Mahir with confidence 0.59
+Face 1077: Alert - Not in data (best score: 0.26)
+Face 1078: Detected Mahir with confidence 0.65
+Face 1079: Detected Mahir with confidence 0.64
+Face 1080: Detected Mahir with confidence 0.65
+------ End of Batch ------
+Face 1081: Alert - Not in data (best score: 0.30)
+Face 1082: Detected Mahir with confidence 0.61
+Face 1083: Detected Mahir with confidence 0.46
+Face 1084: Detected Mahir with confidence 0.45
+Face 1085: Detected Mahir with confidence 0.58
+Face 1086: Detected Mahir with confidence 0.69
+Face 1087: Detected Mahir with confidence 0.64
+Face 1088: Detected Mahir with confidence 0.75
+Face 1089: Detected Mahir with confidence 0.80
+Face 1090: Detected Mahir with confidence 0.77
+------ End of Batch ------
+Face 1091: Detected Mahir with confidence 0.79
+Face 1092: Detected Mahir with confidence 0.76
+Face 1093: Detected Manan with confidence 0.47
+Face 1094: Detected Mahir with confidence 0.76
+Face 1095: Detected Mahir with confidence 0.76
+Face 1096: Detected Mahir with confidence 0.82
+Face 1097: Detected Mahir with confidence 0.83
+Face 1098: Detected Mahir with confidence 0.82
+Face 1099: Detected Mahir with confidence 0.77
+Face 1100: Detected Mahir with confidence 0.80
+------ End of Batch ------
+Face 1101: Detected Mahir with confidence 0.79
+Face 1102: Detected Mahir with confidence 0.80
+Face 1103: Detected Mahir with confidence 0.78
+Face 1104: Detected Mahir with confidence 0.76
+Face 1105: Detected Mahir with confidence 0.76
+Face 1106: Alert - Not in data (best score: 0.18)
+Face 1107: Detected Mahir with confidence 0.77
+Face 1108: Detected Mahir with confidence 0.74
+Face 1109: Detected Mahir with confidence 0.78
+Face 1110: Detected Mahir with confidence 0.76
+------ End of Batch ------
+Face 1111: Detected Mahir with confidence 0.79
+Face 1112: Detected Mahir with confidence 0.77
+Face 1113: Detected Mahir with confidence 0.75
+Face 1114: Detected Mahir with confidence 0.72
+Face 1115: Detected Mahir with confidence 0.78
+Face 1116: Detected Mahir with confidence 0.73
+Face 1117: Detected Mahir with confidence 0.81
+Face 1118: Detected Mahir with confidence 0.81
+Face 1119: Detected Mahir with confidence 0.84
+Face 1120: Detected Mahir with confidence 0.82
+------ End of Batch ------
+Face 1121: Detected Mahir with confidence 0.81
+Face 1122: Detected Mahir with confidence 0.80
+Face 1123: Detected Mahir with confidence 0.80
+Face 1124: Detected Mahir with confidence 0.80
+Face 1125: Detected Mahir with confidence 0.78
+Face 1126: Detected Mahir with confidence 0.72
+Face 1127: Detected Mahir with confidence 0.74
+Face 1128: Detected Mahir with confidence 0.74
+Face 1129: Detected Mahir with confidence 0.71
+Face 1130: Detected Mahir with confidence 0.69
+------ End of Batch ------
+Face 1131: Detected Mahir with confidence 0.70
+Face 1132: Detected Mahir with confidence 0.71
+Face 1133: Detected Mahir with confidence 0.72
+Face 1134: Detected Mahir with confidence 0.70
+Face 1135: Detected Mahir with confidence 0.67
+Face 1136: Detected Mahir with confidence 0.68
+Face 1137: Detected Mahir with confidence 0.72
+Face 1138: Detected Mahir with confidence 0.72
+Face 1139: Detected Mahir with confidence 0.70
+Face 1140: Detected Mahir with confidence 0.73
+------ End of Batch ------
+Face 1141: Detected Mahir with confidence 0.71
+Face 1142: Detected Mahir with confidence 0.73
+Face 1143: Detected Mahir with confidence 0.72
+Face 1144: Detected Mahir with confidence 0.73
+Face 1145: Detected Mahir with confidence 0.74
+Face 1146: Detected Mahir with confidence 0.80
+Face 1147: Detected Mahir with confidence 0.83
+Face 1148: Detected Mahir with confidence 0.84
+Face 1149: Detected Mahir with confidence 0.86
+Face 1150: Detected Mahir with confidence 0.82
+------ End of Batch ------
+Face 1151: Detected Mahir with confidence 0.80
+Face 1152: Detected Mahir with confidence 0.82
+Face 1153: Detected Mahir with confidence 0.84
+Face 1154: Detected Mahir with confidence 0.83
+Face 1155: Detected Mahir with confidence 0.79
+Face 1156: Detected Mahir with confidence 0.77
+Face 1157: Detected Mahir with confidence 0.75
+Face 1158: Detected Mahir with confidence 0.78
+Face 1159: Detected Mahir with confidence 0.73
+Face 1160: Detected Mahir with confidence 0.77
+------ End of Batch ------
+Face 1161: Detected Mahir with confidence 0.72
+Face 1162: Detected Mahir with confidence 0.76
+Face 1163: Detected Mahir with confidence 0.76
+Face 1164: Detected Mahir with confidence 0.77
+Face 1165: Detected Mahir with confidence 0.78
+Face 1166: Detected Mahir with confidence 0.80
+Face 1167: Detected Mahir with confidence 0.81
+Face 1168: Detected Mahir with confidence 0.78
+Face 1169: Detected Mahir with confidence 0.76
+Face 1170: Detected Mahir with confidence 0.78
+------ End of Batch ------
+Face 1171: Detected Mahir with confidence 0.76
+Face 1172: Detected Mahir with confidence 0.70
+Face 1173: Detected Mahir with confidence 0.69
+Face 1174: Detected Mahir with confidence 0.67
+Face 1175: Detected Mahir with confidence 0.77
+Face 1176: Alert - Not in data (best score: 0.13)
+Face 1177: Detected Mahir with confidence 0.76
+Face 1178: Detected Mahir with confidence 0.72
+Face 1179: Detected Mahir with confidence 0.72
+Face 1180: Detected Mahir with confidence 0.74
+------ End of Batch ------
+Face 1181: Detected Mahir with confidence 0.71
+Face 1182: Detected Mahir with confidence 0.64
+Face 1183: Detected Mahir with confidence 0.74
+Face 1184: Detected Mahir with confidence 0.69
+Face 1185: Detected Manan with confidence 0.69
+Face 1186: Alert - Not in data (best score: 0.14)
+Face 1187: Alert - Not in data (best score: 0.14)
+Face 1188: Alert - Not in data (best score: 0.20)
+Face 1189: Alert - Not in data (best score: 0.28)
+Face 1190: Alert - Not in data (best score: 0.20)
+------ End of Batch ------
+Face 1191: Alert - Not in data (best score: 0.15)
+Face 1192: Alert - Not in data (best score: 0.15)
+Face 1193: Alert - Not in data (best score: 0.20)
+Face 1194: Detected Priyal with confidence 0.30
+Face 1195: Alert - Not in data (best score: 0.25)
+Face 1196: Detected Priyal with confidence 0.43
+Face 1197: Detected Mahir with confidence 0.39
+Face 1198: Detected Mahir with confidence 0.45
+Face 1199: Detected Mahir with confidence 0.41
+Face 1200: Detected Mahir with confidence 0.48
+------ End of Batch ------
+Face 1201: Detected Mahir with confidence 0.51
+Face 1202: Detected Priyal with confidence 0.31
+Face 1203: Detected Priyal with confidence 0.35
+Face 1204: Alert - Not in data (best score: 0.27)
+Face 1205: Alert - Not in data (best score: 0.29)
+Face 1206: Alert - Not in data (best score: 0.23)
+Face 1207: Alert - Not in data (best score: 0.19)
+Face 1208: Alert - Not in data (best score: 0.17)
+Face 1209: Alert - Not in data (best score: 0.17)
+Face 1210: Detected Mahir with confidence 0.40
+------ End of Batch ------
+Face 1211: Detected Mahir with confidence 0.30
+Face 1212: Alert - Not in data (best score: 0.28)
+Face 1213: Alert - Not in data (best score: 0.20)
+Face 1214: Alert - Not in data (best score: 0.22)
+Face 1215: Alert - Not in data (best score: 0.28)
+Face 1216: Detected Mahir with confidence 0.35
+Face 1217: Detected Mahir with confidence 0.40
+Face 1218: Alert - Not in data (best score: 0.30)
+Face 1219: Detected Mahir with confidence 0.36
+Face 1220: Alert - Not in data (best score: 0.23)
+------ End of Batch ------
+Face 1221: Detected Mahir with confidence 0.31
+Face 1222: Alert - Not in data (best score: 0.20)
+Face 1223: Alert - Not in data (best score: 0.20)
+Face 1224: Alert - Not in data (best score: 0.25)
+Face 1225: Alert - Not in data (best score: 0.27)
+Face 1226: Detected Priyal with confidence 0.30
+Face 1227: Alert - Not in data (best score: 0.25)
+Face 1228: Alert - Not in data (best score: 0.20)
+Face 1229: Alert - Not in data (best score: 0.15)
+Face 1230: Alert - Not in data (best score: 0.18)
+------ End of Batch ------
+Face 1231: Alert - Not in data (best score: 0.12)
+Face 1232: Detected Priyal with confidence 0.38
+Face 1233: Detected Mahir with confidence 0.33
+Face 1234: Detected Priyal with confidence 0.32
+Face 1235: Detected Manan with confidence 0.56
+Face 1236: Alert - Not in data (best score: 0.28)
+Face 1237: Detected Mahir with confidence 0.31
+Face 1238: Detected Mahir with confidence 0.65
+Face 1239: Detected Mahir with confidence 0.60
+Face 1240: Detected Mahir with confidence 0.57
+------ End of Batch ------
+Face 1241: Alert - Not in data (best score: 0.29)
+Face 1242: Detected Mahir with confidence 0.44
+Face 1243: Detected Mahir with confidence 0.45
+Face 1244: Detected Mahir with confidence 0.33
+Face 1245: Alert - Not in data (best score: 0.24)
+Face 1246: Alert - Not in data (best score: 0.27)
+Face 1247: Detected Mahir with confidence 0.34
+Face 1248: Alert - Not in data (best score: 0.26)
+Face 1249: Alert - Not in data (best score: 0.24)
+Face 1250: Alert - Not in data (best score: 0.21)
+------ End of Batch ------
+Face 1251: Alert - Not in data (best score: 0.20)
+Face 1252: Alert - Not in data (best score: 0.12)
+Face 1253: Alert - Not in data (best score: 0.23)
+Face 1254: Alert - Not in data (best score: 0.18)
+Face 1255: Alert - Not in data (best score: 0.14)
+Face 1256: Detected Mahir with confidence 0.40
+Face 1257: Alert - Not in data (best score: 0.14)
+Face 1258: Detected Mahir with confidence 0.37
+Face 1259: Alert - Not in data (best score: 0.17)
+Face 1260: Detected Priyal with confidence 0.31
+------ End of Batch ------
+Face 1261: Alert - Not in data (best score: 0.13)
+Face 1262: Alert - Not in data (best score: 0.15)
+Face 1263: Detected Priyal with confidence 0.36
+Face 1264: Alert - Not in data (best score: 0.13)
+Face 1265: Alert - Not in data (best score: 0.16)
+Face 1266: Alert - Not in data (best score: 0.11)
+Face 1267: Alert - Not in data (best score: 0.19)
+Face 1268: Detected Mahir with confidence 0.39
+Face 1269: Detected Mahir with confidence 0.42
+Face 1270: Detected Mahir with confidence 0.47
+------ End of Batch ------
+Face 1271: Detected Mahir with confidence 0.53
+Face 1272: Detected Mahir with confidence 0.46
+Face 1273: Detected Priyal with confidence 0.32
+Face 1274: Alert - Not in data (best score: 0.23)
+Face 1275: Detected Mahir with confidence 0.31
+Face 1276: Detected Priyal with confidence 0.32
+Face 1277: Detected Mahir with confidence 0.35
+Face 1278: Alert - Not in data (best score: 0.26)
+Face 1279: Alert - Not in data (best score: 0.27)
+Face 1280: Alert - Not in data (best score: 0.24)
+------ End of Batch ------
+Face 1281: Alert - Not in data (best score: 0.21)
+Face 1282: Alert - Not in data (best score: 0.19)
+Face 1283: Alert - Not in data (best score: 0.11)
+Face 1284: Alert - Not in data (best score: 0.12)
+Face 1285: Alert - Not in data (best score: 0.18)
+Face 1286: Alert - Not in data (best score: 0.19)
+Face 1287: Alert - Not in data (best score: 0.18)
+Face 1288: Alert - Not in data (best score: 0.17)
+Face 1289: Alert - Not in data (best score: 0.27)
+Face 1290: Detected Manan with confidence 0.51
+------ End of Batch ------
+Face 1291: Detected Mahir with confidence 0.56
+Face 1292: Detected Mahir with confidence 0.63
+Face 1293: Detected Mahir with confidence 0.62
+Face 1294: Detected Mahir with confidence 0.58
+Face 1295: Detected Mahir with confidence 0.66
+Face 1296: Detected Mahir with confidence 0.53
+Face 1297: Detected Mahir with confidence 0.69
+Face 1298: Detected Mahir with confidence 0.45
+Face 1299: Detected Mahir with confidence 0.52
+Face 1300: Detected Mahir with confidence 0.48
+------ End of Batch ------
+Face 1301: Detected Mahir with confidence 0.39
+Face 1302: Detected Mahir with confidence 0.53
+Face 1303: Detected Mahir with confidence 0.57
+Face 1304: Detected Mahir with confidence 0.39
+Face 1305: Detected Mahir with confidence 0.52
+Face 1306: Detected Mahir with confidence 0.37
+Face 1307: Detected Mahir with confidence 0.45
+Face 1308: Detected Mahir with confidence 0.56
+Face 1309: Detected Mahir with confidence 0.53
+Face 1310: Alert - Not in data (best score: 0.23)
+------ End of Batch ------
+Face 1311: Detected Mahir with confidence 0.67
+Face 1312: Detected Mahir with confidence 0.71
+Face 1313: Detected Mahir with confidence 0.68
+Face 1314: Detected Mahir with confidence 0.69
+Face 1315: Detected Mahir with confidence 0.67
+Face 1316: Detected Mahir with confidence 0.69
+Face 1317: Detected Mahir with confidence 0.54
+Face 1318: Detected Mahir with confidence 0.65
+Face 1319: Detected Mahir with confidence 0.59
+Face 1320: Detected Mahir with confidence 0.51
+------ End of Batch ------
+Face 1321: Detected Mahir with confidence 0.55
+Face 1322: Detected Manan with confidence 0.61
+Face 1323: Detected Mahir with confidence 0.67
+Face 1324: Detected Mahir with confidence 0.57
+Face 1325: Detected Mahir with confidence 0.66
+Face 1326: Detected Mahir with confidence 0.71
+Face 1327: Detected Mahir with confidence 0.67
+Face 1328: Detected Mahir with confidence 0.64
+Face 1329: Detected Mahir with confidence 0.56
+Face 1330: Alert - Not in data (best score: 0.22)
+------ End of Batch ------
+Face 1331: Alert - Not in data (best score: 0.11)
+Face 1332: Alert - Not in data (best score: 0.18)
+Face 1333: Alert - Not in data (best score: 0.12)
+Face 1334: Alert - Not in data (best score: 0.12)
+Face 1335: Alert - Not in data (best score: 0.11)
+Face 1336: Alert - Not in data (best score: 0.11)
+Face 1337: Alert - Not in data (best score: 0.15)
+Face 1338: Alert - Not in data (best score: 0.16)
+Face 1339: Alert - Not in data (best score: 0.16)
+Face 1340: Alert - Not in data (best score: 0.17)
+------ End of Batch ------
+Face 1341: Alert - Not in data (best score: 0.17)
+Face 1342: Alert - Not in data (best score: 0.18)
+Face 1343: Alert - Not in data (best score: 0.17)
+Face 1344: Alert - Not in data (best score: 0.16)
+Face 1345: Alert - Not in data (best score: 0.16)
+Face 1346: Alert - Not in data (best score: 0.16)
+Face 1347: Alert - Not in data (best score: 0.18)
+Face 1348: Alert - Not in data (best score: 0.16)
+Face 1349: Alert - Not in data (best score: 0.14)
+Face 1350: Alert - Not in data (best score: 0.13)
+------ End of Batch ------
+Face 1351: Alert - Not in data (best score: 0.17)
+Face 1352: Alert - Not in data (best score: 0.19)
+Face 1353: Alert - Not in data (best score: 0.18)
+Face 1354: Alert - Not in data (best score: 0.16)
+Face 1355: Alert - Not in data (best score: 0.17)
+Face 1356: Alert - Not in data (best score: 0.16)
+Face 1357: Alert - Not in data (best score: 0.17)
+Face 1358: Alert - Not in data (best score: 0.15)
+Face 1359: Alert - Not in data (best score: 0.16)
+Face 1360: Alert - Not in data (best score: 0.18)
+------ End of Batch ------
+Face 1361: Alert - Not in data (best score: 0.19)
+Face 1362: Alert - Not in data (best score: 0.21)
+Face 1363: Alert - Not in data (best score: 0.18)
+Face 1364: Alert - Not in data (best score: 0.19)
+Face 1365: Alert - Not in data (best score: 0.18)
+Face 1366: Alert - Not in data (best score: 0.20)
+Face 1367: Alert - Not in data (best score: 0.17)
+Face 1368: Alert - Not in data (best score: 0.19)
+Face 1369: Alert - Not in data (best score: 0.18)
+Face 1370: Alert - Not in data (best score: 0.20)
+------ End of Batch ------
+Face 1371: Alert - Not in data (best score: 0.16)
+Face 1372: Alert - Not in data (best score: 0.16)
+Face 1373: Alert - Not in data (best score: 0.19)
+Face 1374: Detected Manan with confidence 0.38
+Face 1375: Detected Manan with confidence 0.41
+Face 1376: Alert - Not in data (best score: 0.25)
+Face 1377: Alert - Not in data (best score: 0.20)
+Face 1378: Detected Manan with confidence 0.42
+Face 1379: Detected Manan with confidence 0.41
+Face 1380: Alert - Not in data (best score: 0.20)
+------ End of Batch ------
+Face 1381: Alert - Not in data (best score: 0.20)
+Face 1382: Alert - Not in data (best score: 0.18)
+Face 1383: Alert - Not in data (best score: 0.12)
+Face 1384: Alert - Not in data (best score: 0.23)
+Face 1385: Detected Manan with confidence 0.32
+Face 1386: Alert - Not in data (best score: 0.24)
+Face 1387: Alert - Not in data (best score: 0.11)
+Face 1388: Alert - Not in data (best score: 0.09)
+Face 1389: Alert - Not in data (best score: 0.16)
+Face 1390: Alert - Not in data (best score: 0.21)
+------ End of Batch ------
+Face 1391: Alert - Not in data (best score: 0.15)
+Face 1392: Alert - Not in data (best score: 0.14)
+Face 1393: Alert - Not in data (best score: 0.09)
+Face 1394: Alert - Not in data (best score: 0.13)
+Face 1395: Alert - Not in data (best score: 0.12)
+Face 1396: Alert - Not in data (best score: 0.16)
+Face 1397: Alert - Not in data (best score: 0.16)
+Face 1398: Alert - Not in data (best score: 0.19)
+Face 1399: Alert - Not in data (best score: 0.14)
+Face 1400: Alert - Not in data (best score: 0.12)
+------ End of Batch ------
+Face 1401: Alert - Not in data (best score: 0.16)
+Face 1402: Alert - Not in data (best score: 0.18)
+Face 1403: Alert - Not in data (best score: 0.09)
+Face 1404: Alert - Not in data (best score: 0.09)
+Face 1405: Alert - Not in data (best score: 0.12)
+Face 1406: Alert - Not in data (best score: 0.10)
+Face 1407: Alert - Not in data (best score: 0.23)
+Face 1408: Alert - Not in data (best score: 0.16)
+Face 1409: Alert - Not in data (best score: 0.10)
+Face 1410: Alert - Not in data (best score: 0.13)
+------ End of Batch ------
+Face 1411: Alert - Not in data (best score: 0.16)
+Face 1412: Alert - Not in data (best score: 0.16)
+Face 1413: Alert - Not in data (best score: 0.14)
+Face 1414: Alert - Not in data (best score: 0.12)
+Face 1415: Alert - Not in data (best score: 0.12)
+Face 1416: Alert - Not in data (best score: 0.16)
+Face 1417: Alert - Not in data (best score: 0.11)
+Face 1418: Alert - Not in data (best score: 0.22)
+Face 1419: Alert - Not in data (best score: 0.12)
+Face 1420: Alert - Not in data (best score: 0.10)
+------ End of Batch ------
+Face 1421: Alert - Not in data (best score: 0.18)
+Face 1422: Alert - Not in data (best score: 0.06)
+Face 1423: Alert - Not in data (best score: 0.15)
+Face 1424: Alert - Not in data (best score: 0.17)
+Face 1425: Alert - Not in data (best score: 0.18)
+Face 1426: Alert - Not in data (best score: 0.07)
+Face 1427: Alert - Not in data (best score: 0.20)
+Face 1428: Alert - Not in data (best score: 0.15)
+Face 1429: Alert - Not in data (best score: 0.11)
+Face 1430: Alert - Not in data (best score: 0.26)
+------ End of Batch ------
+Face 1431: Alert - Not in data (best score: 0.27)
+Face 1432: Alert - Not in data (best score: 0.15)
+Face 1433: Alert - Not in data (best score: 0.15)
+Face 1434: Alert - Not in data (best score: 0.13)
+Face 1435: Alert - Not in data (best score: 0.08)
+Face 1436: Alert - Not in data (best score: 0.07)
+Face 1437: Alert - Not in data (best score: 0.10)
+Face 1438: Alert - Not in data (best score: 0.14)
+Face 1439: Alert - Not in data (best score: 0.13)
+Face 1440: Alert - Not in data (best score: 0.18)
+------ End of Batch ------
+Face 1441: Alert - Not in data (best score: 0.07)
+Face 1442: Alert - Not in data (best score: 0.26)
+Face 1443: Alert - Not in data (best score: 0.14)
+Face 1444: Alert - Not in data (best score: 0.05)
+Face 1445: Alert - Not in data (best score: 0.09)
+Face 1446: Alert - Not in data (best score: 0.07)
+Face 1447: Detected Manan with confidence 0.42
+Face 1448: Alert - Not in data (best score: 0.27)
+Face 1449: Alert - Not in data (best score: 0.22)
+Face 1450: Alert - Not in data (best score: 0.20)
+------ End of Batch ------
+Face 1451: Alert - Not in data (best score: 0.18)
+Face 1452: Detected Mahir with confidence 0.67
+Face 1453: Detected Mahir with confidence 0.64
+Face 1454: Detected Mahir with confidence 0.64
+Face 1455: Detected Mahir with confidence 0.63
+Face 1456: Detected Mahir with confidence 0.67
+Face 1457: Alert - Not in data (best score: 0.27)
+Face 1458: Detected Mahir with confidence 0.61
+Face 1459: Alert - Not in data (best score: 0.22)
+Face 1460: Detected Mahir with confidence 0.76
+------ End of Batch ------
+Face 1461: Detected Mahir with confidence 0.77
+Face 1462: Alert - Not in data (best score: 0.22)
+Face 1463: Detected Mahir with confidence 0.70
+Face 1464: Detected Mahir with confidence 0.72
+Face 1465: Alert - Not in data (best score: 0.25)
+Face 1466: Detected Mahir with confidence 0.73
+Face 1467: Detected Mahir with confidence 0.64
+Face 1468: Detected Mahir with confidence 0.74
+Face 1469: Detected Mahir with confidence 0.75
+Face 1470: Detected Mahir with confidence 0.75
+------ End of Batch ------
+Face 1471: Detected Mahir with confidence 0.62
+Face 1472: Detected Mahir with confidence 0.37
+Face 1473: Alert - Not in data (best score: 0.06)
+Face 1474: Detected Mahir with confidence 0.67
+Face 1475: Detected Mahir with confidence 0.65
+Face 1476: Detected Mahir with confidence 0.58
+Face 1477: Detected Mahir with confidence 0.36
+Face 1478: Alert - Not in data (best score: 0.17)
+Face 1479: Alert - Not in data (best score: 0.16)
+Face 1480: Alert - Not in data (best score: 0.15)
+------ End of Batch ------
+Face 1481: Alert - Not in data (best score: 0.21)
+Face 1482: Alert - Not in data (best score: 0.16)
+Face 1483: Alert - Not in data (best score: 0.04)
+Face 1484: Alert - Not in data (best score: 0.15)
+Face 1485: Alert - Not in data (best score: 0.30)
+Face 1486: Detected Mahir with confidence 0.40
+Face 1487: Detected Mahir with confidence 0.64
+Face 1488: Detected Mahir with confidence 0.43
+Face 1489: Detected Mahir with confidence 0.43
+Face 1490: Detected Mahir with confidence 0.50
+------ End of Batch ------
+Face 1491: Detected Mahir with confidence 0.52
+Face 1492: Detected Mahir with confidence 0.51
+Face 1493: Alert - Not in data (best score: 0.25)
+Face 1494: Detected Mahir with confidence 0.36
+Face 1495: Alert - Not in data (best score: 0.25)
+Face 1496: Alert - Not in data (best score: 0.29)
+Face 1497: Detected Mahir with confidence 0.49
+Face 1498: Detected Priyal with confidence 0.36
+Face 1499: Alert - Not in data (best score: 0.21)
+Face 1500: Detected Priyal with confidence 0.43
+------ End of Batch ------
+Face 1501: Detected Priyal with confidence 0.47
+Face 1502: Detected Mahir with confidence 0.56
+Face 1503: Detected Mahir with confidence 0.62
+Face 1504: Alert - Not in data (best score: 0.18)
+Face 1505: Alert - Not in data (best score: 0.18)
+Face 1506: Alert - Not in data (best score: 0.15)
+Face 1507: Alert - Not in data (best score: 0.04)
+Face 1508: Detected Priyal with confidence 0.54
+Face 1509: Alert - Not in data (best score: 0.24)
+Face 1510: Detected Priyal with confidence 0.57
+------ End of Batch ------
+Face 1511: Detected Priyal with confidence 0.33
+Face 1512: Detected Priyal with confidence 0.61
+Face 1513: Alert - Not in data (best score: 0.21)
+Face 1514: Detected Priyal with confidence 0.66
+Face 1515: Detected Priyal with confidence 0.44
+Face 1516: Detected Priyal with confidence 0.55
+Face 1517: Detected Priyal with confidence 0.47
+Face 1518: Detected Mahir with confidence 0.52
+Face 1519: Detected Priyal with confidence 0.45
+Face 1520: Detected Mahir with confidence 0.46
+------ End of Batch ------
+Face 1521: Detected Priyal with confidence 0.44
+Face 1522: Detected Mahir with confidence 0.62
+Face 1523: Detected Manan with confidence 0.38
+Face 1524: Detected Mahir with confidence 0.65
+Face 1525: Detected Priyal with confidence 0.48
+Face 1526: Detected Mahir with confidence 0.33
+Face 1527: Alert - Not in data (best score: 0.29)
+Face 1528: Detected Mahir with confidence 0.58
+Face 1529: Detected Priyal with confidence 0.35
+Face 1530: Detected Mahir with confidence 0.68
+------ End of Batch ------
+Face 1531: Detected Priyal with confidence 0.50
+Face 1532: Detected Mahir with confidence 0.76
+Face 1533: Detected Priyal with confidence 0.52
+Face 1534: Detected Mahir with confidence 0.75
+Face 1535: Detected Priyal with confidence 0.61
+Face 1536: Detected Mahir with confidence 0.67
+Face 1537: Detected Priyal with confidence 0.53
+Face 1538: Detected Mahir with confidence 0.69
+Face 1539: Detected Priyal with confidence 0.49
+Face 1540: Detected Mahir with confidence 0.67
+------ End of Batch ------
+Face 1541: Detected Priyal with confidence 0.45
+Face 1542: Detected Mahir with confidence 0.67
+Face 1543: Detected Priyal with confidence 0.41
+Face 1544: Detected Mahir with confidence 0.72
+Face 1545: Detected Priyal with confidence 0.50
+Face 1546: Detected Mahir with confidence 0.75
+Face 1547: Detected Priyal with confidence 0.42
+Face 1548: Detected Mahir with confidence 0.74
+Face 1549: Detected Priyal with confidence 0.49
+Face 1550: Detected Mahir with confidence 0.58
+------ End of Batch ------
+Face 1551: Detected Priyal with confidence 0.36
+Face 1552: Detected Mahir with confidence 0.55
+Face 1553: Detected Priyal with confidence 0.49
+Face 1554: Detected Mahir with confidence 0.72
+Face 1555: Detected Priyal with confidence 0.48
+Face 1556: Detected Mahir with confidence 0.64
+Face 1557: Detected Priyal with confidence 0.32
+Face 1558: Detected Mahir with confidence 0.74
+Face 1559: Alert - Not in data (best score: 0.17)
+Face 1560: Detected Mahir with confidence 0.67
+------ End of Batch ------
+Face 1561: Alert - Not in data (best score: 0.21)
+Face 1562: Detected Mahir with confidence 0.58
+Face 1563: Detected Priyal with confidence 0.31
+Face 1564: Detected Mahir with confidence 0.74
+Face 1565: Alert - Not in data (best score: 0.18)
+Face 1566: Detected Mahir with confidence 0.73
+Face 1567: Alert - Not in data (best score: 0.19)
+Face 1568: Detected Mahir with confidence 0.75
+Face 1569: Alert - Not in data (best score: 0.18)
+Face 1570: Detected Mahir with confidence 0.76
+------ End of Batch ------
+Face 1571: Alert - Not in data (best score: 0.22)
+Face 1572: Detected Mahir with confidence 0.75
+Face 1573: Alert - Not in data (best score: 0.16)
+Face 1574: Detected Mahir with confidence 0.74
+Face 1575: Alert - Not in data (best score: 0.17)
+Face 1576: Detected Mahir with confidence 0.70
+Face 1577: Detected Priyal with confidence 0.32
+Face 1578: Detected Mahir with confidence 0.79
+Face 1579: Detected Manan with confidence 0.37
+Face 1580: Detected Mahir with confidence 0.78
+------ End of Batch ------
+Face 1581: Alert - Not in data (best score: 0.29)
+Face 1582: Detected Mahir with confidence 0.75
+Face 1583: Detected Mahir with confidence 0.44
+Face 1584: Detected Mahir with confidence 0.42
+Face 1585: Alert - Not in data (best score: 0.08)
+Face 1586: Alert - Not in data (best score: 0.16)
+Face 1587: Alert - Not in data (best score: 0.13)
+Face 1588: Alert - Not in data (best score: 0.14)
+Face 1589: Alert - Not in data (best score: 0.21)
+Face 1590: Alert - Not in data (best score: 0.14)
+------ End of Batch ------
+Face 1591: Alert - Not in data (best score: 0.13)
+Face 1592: Alert - Not in data (best score: 0.11)
+Face 1593: Alert - Not in data (best score: 0.11)
+Face 1594: Alert - Not in data (best score: 0.11)
+Face 1595: Alert - Not in data (best score: 0.24)
+Face 1596: Alert - Not in data (best score: 0.09)
+Face 1597: Alert - Not in data (best score: 0.11)
+Face 1598: Alert - Not in data (best score: 0.10)
+Face 1599: Alert - Not in data (best score: 0.11)
+Face 1600: Alert - Not in data (best score: 0.08)
+------ End of Batch ------
+Face 1601: Detected Mahir with confidence 0.55
+Face 1602: Detected Mahir with confidence 0.64
+Face 1603: Detected Mahir with confidence 0.54
+Face 1604: Detected Mahir with confidence 0.43
+Face 1605: Detected Mahir with confidence 0.39
+Face 1606: Detected Mahir with confidence 0.38
+Face 1607: Alert - Not in data (best score: 0.28)
+Face 1608: Detected Mahir with confidence 0.50
+Face 1609: Detected Mahir with confidence 0.52
+Face 1610: Detected Mahir with confidence 0.41
+------ End of Batch ------
+Face 1611: Alert - Not in data (best score: 0.18)
+Face 1612: Detected Mahir with confidence 0.54
+Face 1613: Alert - Not in data (best score: 0.17)
+Face 1614: Alert - Not in data (best score: 0.13)
+Face 1615: Alert - Not in data (best score: 0.15)
+Face 1616: Alert - Not in data (best score: 0.14)
+Face 1617: Alert - Not in data (best score: 0.19)
+Face 1618: Alert - Not in data (best score: 0.13)
+Face 1619: Alert - Not in data (best score: 0.18)
+Face 1620: Alert - Not in data (best score: 0.14)
+------ End of Batch ------
+Face 1621: Alert - Not in data (best score: 0.13)
+Face 1622: Alert - Not in data (best score: 0.19)
+Face 1623: Detected Mahir with confidence 0.39
+Face 1624: Alert - Not in data (best score: 0.15)
+Face 1625: Detected Mahir with confidence 0.36
+Face 1626: Detected Mahir with confidence 0.55
+Face 1627: Detected Mahir with confidence 0.69
+Face 1628: Detected Mahir with confidence 0.76
+Face 1629: Alert - Not in data (best score: 0.14)
+Face 1630: Detected Mahir with confidence 0.67
+------ End of Batch ------
+Face 1631: Alert - Not in data (best score: 0.26)
+Face 1632: Detected Mahir with confidence 0.70
+Face 1633: Alert - Not in data (best score: 0.29)
+Face 1634: Detected Mahir with confidence 0.65
+Face 1635: Alert - Not in data (best score: 0.18)
+Face 1636: Detected Mahir with confidence 0.67
+Face 1637: Alert - Not in data (best score: 0.10)
+Face 1638: Detected Mahir with confidence 0.62
+Face 1639: Alert - Not in data (best score: 0.24)
+Face 1640: Detected Mahir with confidence 0.63
+------ End of Batch ------
+Face 1641: Alert - Not in data (best score: 0.23)
+Face 1642: Detected Mahir with confidence 0.60
+Face 1643: Alert - Not in data (best score: 0.23)
+Face 1644: Detected Mahir with confidence 0.60
+Face 1645: Detected Manan with confidence 0.30
+Face 1646: Detected Mahir with confidence 0.62
+Face 1647: Detected Priyal with confidence 0.32
+Face 1648: Detected Mahir with confidence 0.60
+Face 1649: Detected Priyal with confidence 0.49
+Face 1650: Detected Mahir with confidence 0.62
+------ End of Batch ------
+Face 1651: Detected Priyal with confidence 0.51
+Face 1652: Detected Mahir with confidence 0.58
+Face 1653: Detected Priyal with confidence 0.54
+Face 1654: Detected Mahir with confidence 0.63
+Face 1655: Detected Priyal with confidence 0.51
+Face 1656: Detected Mahir with confidence 0.63
+Face 1657: Detected Priyal with confidence 0.47
+Face 1658: Detected Mahir with confidence 0.68
+Face 1659: Detected Priyal with confidence 0.52
+Face 1660: Detected Mahir with confidence 0.65
+------ End of Batch ------
+Face 1661: Detected Manan with confidence 0.45
+Face 1662: Detected Mahir with confidence 0.68
+Face 1663: Detected Mahir with confidence 0.55
+Face 1664: Detected Mahir with confidence 0.73
+Face 1665: Detected Priyal with confidence 0.44
+Face 1666: Detected Mahir with confidence 0.75
+Face 1667: Detected Priyal with confidence 0.64
+Face 1668: Detected Mahir with confidence 0.66
+Face 1669: Detected Priyal with confidence 0.74
+Face 1670: Detected Mahir with confidence 0.65
+------ End of Batch ------
+Face 1671: Detected Priyal with confidence 0.68
+Face 1672: Detected Mahir with confidence 0.71
+Face 1673: Detected Priyal with confidence 0.62
+Face 1674: Detected Mahir with confidence 0.68
+Face 1675: Detected Priyal with confidence 0.65
+Face 1676: Detected Mahir with confidence 0.67
+Face 1677: Detected Priyal with confidence 0.55
+Face 1678: Detected Mahir with confidence 0.69
+Face 1679: Detected Priyal with confidence 0.45
+Face 1680: Detected Mahir with confidence 0.65
+------ End of Batch ------
+Face 1681: Detected Priyal with confidence 0.47
+Face 1682: Detected Mahir with confidence 0.58
+Face 1683: Detected Priyal with confidence 0.54
+Face 1684: Detected Mahir with confidence 0.65
+Face 1685: Detected Priyal with confidence 0.51
+Face 1686: Detected Mahir with confidence 0.58
+Face 1687: Detected Priyal with confidence 0.54
+Face 1688: Detected Mahir with confidence 0.48
+Face 1689: Detected Priyal with confidence 0.54
+Face 1690: Detected Mahir with confidence 0.47
+------ End of Batch ------
+Face 1691: Detected Priyal with confidence 0.58
+Face 1692: Detected Mahir with confidence 0.46
+Face 1693: Detected Priyal with confidence 0.52
+Face 1694: Detected Mahir with confidence 0.55
+Face 1695: Detected Priyal with confidence 0.57
+Face 1696: Detected Mahir with confidence 0.67
+Face 1697: Detected Priyal with confidence 0.61
+Face 1698: Detected Mahir with confidence 0.62
+Face 1699: Detected Priyal with confidence 0.61
+Face 1700: Detected Mahir with confidence 0.62
+------ End of Batch ------
+Face 1701: Detected Priyal with confidence 0.56
+Face 1702: Detected Mahir with confidence 0.62
+Face 1703: Detected Priyal with confidence 0.59
+Face 1704: Detected Mahir with confidence 0.45
+Face 1705: Detected Priyal with confidence 0.42
+Face 1706: Detected Mahir with confidence 0.55
+Face 1707: Detected Priyal with confidence 0.36
+Face 1708: Alert - Not in data (best score: 0.28)
+Face 1709: Detected Priyal with confidence 0.50
+Face 1710: Detected Mahir with confidence 0.48
+------ End of Batch ------
+Face 1711: Detected Priyal with confidence 0.48
+Face 1712: Detected Mahir with confidence 0.58
+Face 1713: Detected Mahir with confidence 0.51
+Face 1714: Detected Mahir with confidence 0.60
+Face 1715: Detected Priyal with confidence 0.47
+Face 1716: Alert - Not in data (best score: 0.08)
+Face 1717: Detected Mahir with confidence 0.60
+Face 1718: Detected Priyal with confidence 0.48
+Face 1719: Detected Mahir with confidence 0.58
+Face 1720: Detected Mahir with confidence 0.51
+------ End of Batch ------
+Face 1721: Detected Mahir with confidence 0.44
+Face 1722: Detected Priyal with confidence 0.51
+Face 1723: Detected Mahir with confidence 0.72
+Face 1724: Detected Priyal with confidence 0.47
+Face 1725: Detected Mahir with confidence 0.67
+Face 1726: Detected Priyal with confidence 0.48
+Face 1727: Detected Mahir with confidence 0.59
+Face 1728: Detected Priyal with confidence 0.52
+Face 1729: Detected Mahir with confidence 0.64
+Face 1730: Detected Priyal with confidence 0.54
+------ End of Batch ------
+Face 1731: Detected Mahir with confidence 0.62
+Face 1732: Detected Priyal with confidence 0.55
+Face 1733: Detected Mahir with confidence 0.46
+Face 1734: Detected Priyal with confidence 0.37
+Face 1735: Alert - Not in data (best score: 0.02)
+Face 1736: Detected Mahir with confidence 0.31
+Face 1737: Detected Priyal with confidence 0.48
+Face 1738: Alert - Not in data (best score: 0.10)
+Face 1739: Detected Mahir with confidence 0.66
+Face 1740: Detected Priyal with confidence 0.47
+------ End of Batch ------
+Face 1741: Detected Mahir with confidence 0.41
+Face 1742: Detected Priyal with confidence 0.43
+Face 1743: Alert - Not in data (best score: 0.20)
+Face 1744: Detected Priyal with confidence 0.52
+Face 1745: Alert - Not in data (best score: 0.19)
+Face 1746: Detected Priyal with confidence 0.54
+Face 1747: Alert - Not in data (best score: 0.20)
+Face 1748: Detected Priyal with confidence 0.63
+Face 1749: Alert - Not in data (best score: 0.26)
+Face 1750: Detected Priyal with confidence 0.55
+------ End of Batch ------
+Face 1751: Detected Priyal with confidence 0.33
+Face 1752: Detected Priyal with confidence 0.49
+Face 1753: Detected Priyal with confidence 0.41
+Face 1754: Detected Priyal with confidence 0.51
+Face 1755: Detected Priyal with confidence 0.54
+Face 1756: Detected Priyal with confidence 0.60
+Face 1757: Detected Priyal with confidence 0.42
+Face 1758: Detected Priyal with confidence 0.45
+Face 1759: Detected Priyal with confidence 0.68
+Face 1760: Detected Priyal with confidence 0.68
+------ End of Batch ------
+Face 1761: Detected Priyal with confidence 0.56
+Face 1762: Detected Priyal with confidence 0.66
+Face 1763: Detected Priyal with confidence 0.61
+Face 1764: Alert - Not in data (best score: 0.17)
+Face 1765: Detected Priyal with confidence 0.56
+Face 1766: Detected Priyal with confidence 0.42
+Face 1767: Detected Priyal with confidence 0.54
+Face 1768: Detected Priyal with confidence 0.52
+Face 1769: Detected Priyal with confidence 0.52
+Face 1770: Detected Priyal with confidence 0.56
+------ End of Batch ------
+Face 1771: Detected Priyal with confidence 0.46
+Face 1772: Detected Priyal with confidence 0.39
+Face 1773: Detected Priyal with confidence 0.52
+Face 1774: Detected Priyal with confidence 0.34
+Face 1775: Alert - Not in data (best score: 0.22)
+Face 1776: Alert - Not in data (best score: 0.22)
+Face 1777: Alert - Not in data (best score: 0.18)
+Face 1778: Alert - Not in data (best score: 0.15)
+Face 1779: Alert - Not in data (best score: 0.09)
+Face 1780: Alert - Not in data (best score: 0.27)
+------ End of Batch ------
+Face 1781: Alert - Not in data (best score: 0.25)
+Face 1782: Alert - Not in data (best score: 0.18)
+Face 1783: Alert - Not in data (best score: 0.28)
+Face 1784: Alert - Not in data (best score: 0.10)
+Face 1785: Alert - Not in data (best score: 0.26)
+Face 1786: Alert - Not in data (best score: 0.23)
+Face 1787: Alert - Not in data (best score: 0.24)
+Face 1788: Alert - Not in data (best score: 0.27)
+Face 1789: Alert - Not in data (best score: 0.20)
+Face 1790: Alert - Not in data (best score: 0.22)
+------ End of Batch ------
+Face 1791: Alert - Not in data (best score: -0.02)
+Face 1792: Alert - Not in data (best score: 0.20)
+Face 1793: Alert - Not in data (best score: 0.22)
+Face 1794: Alert - Not in data (best score: 0.16)
+Face 1795: Alert - Not in data (best score: 0.18)
+Face 1796: Alert - Not in data (best score: 0.21)
+Face 1797: Detected Priyal with confidence 0.38
+Face 1798: Alert - Not in data (best score: 0.21)
+Face 1799: Detected Priyal with confidence 0.34
+Face 1800: Alert - Not in data (best score: 0.24)
+------ End of Batch ------
+Face 1801: Detected Manan with confidence 0.36
+Face 1802: Alert - Not in data (best score: 0.20)
+Face 1803: Alert - Not in data (best score: 0.18)
+Face 1804: Alert - Not in data (best score: 0.20)
+Face 1805: Alert - Not in data (best score: 0.19)
+Face 1806: Alert - Not in data (best score: 0.15)
+Face 1807: Detected Priyal with confidence 0.39
+Face 1808: Alert - Not in data (best score: 0.22)
+Face 1809: Detected Priyal with confidence 0.43
+Face 1810: Detected Priyal with confidence 0.31
+------ End of Batch ------
+Face 1811: Alert - Not in data (best score: 0.24)
+Face 1812: Alert - Not in data (best score: 0.24)
+Face 1813: Detected Priyal with confidence 0.45
+Face 1814: Alert - Not in data (best score: 0.23)
+Face 1815: Detected Priyal with confidence 0.39
+Face 1816: Alert - Not in data (best score: 0.11)
+Face 1817: Detected Priyal with confidence 0.40
+Face 1818: Detected Mahir with confidence 0.30
+Face 1819: Detected Priyal with confidence 0.45
+Face 1820: Alert - Not in data (best score: 0.25)
+------ End of Batch ------
+Face 1821: Detected Priyal with confidence 0.49
+Face 1822: Alert - Not in data (best score: 0.14)
+Face 1823: Detected Priyal with confidence 0.49
+Face 1824: Alert - Not in data (best score: 0.16)
+Face 1825: Detected Priyal with confidence 0.51
+Face 1826: Alert - Not in data (best score: 0.21)
+Face 1827: Detected Priyal with confidence 0.50
+Face 1828: Alert - Not in data (best score: 0.23)
+Face 1829: Detected Priyal with confidence 0.49
+Face 1830: Alert - Not in data (best score: 0.08)
+------ End of Batch ------
+Face 1831: Detected Mahir with confidence 0.47
+Face 1832: Alert - Not in data (best score: 0.11)
+Face 1833: Detected Priyal with confidence 0.46
+Face 1834: Detected Mahir with confidence 0.32
+Face 1835: Detected Mahir with confidence 0.50
+Face 1836: Detected Mahir with confidence 0.57
+Face 1837: Detected Mahir with confidence 0.55
+Face 1838: Detected Mahir with confidence 0.77
+Face 1839: Detected Mahir with confidence 0.65
+Face 1840: Detected Mahir with confidence 0.72
+------ End of Batch ------
+Face 1841: Detected Mahir with confidence 0.57
+Face 1842: Detected Mahir with confidence 0.74
+Face 1843: Detected Priyal with confidence 0.57
+Face 1844: Detected Mahir with confidence 0.73
+Face 1845: Detected Priyal with confidence 0.58
+Face 1846: Detected Mahir with confidence 0.73
+Face 1847: Detected Priyal with confidence 0.56
+Face 1848: Detected Mahir with confidence 0.67
+Face 1849: Detected Priyal with confidence 0.63
+Face 1850: Detected Mahir with confidence 0.70
+------ End of Batch ------
+Face 1851: Detected Priyal with confidence 0.62
+Face 1852: Detected Mahir with confidence 0.76
+Face 1853: Detected Priyal with confidence 0.60
+Face 1854: Detected Mahir with confidence 0.69
+Face 1855: Detected Priyal with confidence 0.59
+Face 1856: Detected Mahir with confidence 0.63
+Face 1857: Alert - Not in data (best score: 0.13)
+Face 1858: Detected Priyal with confidence 0.56
+Face 1859: Detected Mahir with confidence 0.61
+Face 1860: Detected Priyal with confidence 0.50
+------ End of Batch ------
+Face 1861: Detected Mahir with confidence 0.60
+Face 1862: Detected Priyal with confidence 0.32
+Face 1863: Detected Mahir with confidence 0.63
+Face 1864: Detected Priyal with confidence 0.40
+Face 1865: Detected Mahir with confidence 0.59
+Face 1866: Detected Priyal with confidence 0.72
+Face 1867: Detected Mahir with confidence 0.65
+Face 1868: Detected Priyal with confidence 0.72
+Face 1869: Detected Mahir with confidence 0.62
+Face 1870: Detected Priyal with confidence 0.59
+------ End of Batch ------
+Face 1871: Detected Mahir with confidence 0.66
+Face 1872: Detected Priyal with confidence 0.40
+Face 1873: Detected Mahir with confidence 0.70
+Face 1874: Detected Priyal with confidence 0.46
+Face 1875: Detected Mahir with confidence 0.68
+Face 1876: Detected Manan with confidence 0.43
+Face 1877: Detected Mahir with confidence 0.73
+Face 1878: Detected Manan with confidence 0.55
+Face 1879: Detected Mahir with confidence 0.71
+Face 1880: Detected Manan with confidence 0.61
+------ End of Batch ------
+Face 1881: Detected Mahir with confidence 0.68
+Face 1882: Detected Mahir with confidence 0.43
+Face 1883: Detected Mahir with confidence 0.72
+Face 1884: Detected Mahir with confidence 0.41
+Face 1885: Detected Mahir with confidence 0.71
+Face 1886: Detected Mahir with confidence 0.44
+Face 1887: Detected Mahir with confidence 0.69
+Face 1888: Detected Mahir with confidence 0.57
+Face 1889: Detected Mahir with confidence 0.75
+Face 1890: Detected Mahir with confidence 0.49
+------ End of Batch ------
+Face 1891: Detected Mahir with confidence 0.74
+Face 1892: Detected Mahir with confidence 0.61
+Face 1893: Detected Mahir with confidence 0.76
+Face 1894: Detected Mahir with confidence 0.53
+Face 1895: Detected Mahir with confidence 0.72
+Face 1896: Detected Mahir with confidence 0.47
+Face 1897: Detected Mahir with confidence 0.74
+Face 1898: Detected Priyal with confidence 0.46
+Face 1899: Detected Mahir with confidence 0.71
+Face 1900: Detected Manan with confidence 0.43
+------ End of Batch ------
+Face 1901: Detected Mahir with confidence 0.70
+Face 1902: Detected Manan with confidence 0.38
+Face 1903: Detected Mahir with confidence 0.73
+Face 1904: Detected Manan with confidence 0.35
+Face 1905: Detected Mahir with confidence 0.74
+Face 1906: Detected Priyal with confidence 0.33
+Face 1907: Detected Mahir with confidence 0.63
+Face 1908: Detected Manan with confidence 0.38
+Face 1909: Detected Mahir with confidence 0.73
+Face 1910: Detected Mahir with confidence 0.46
+------ End of Batch ------
+Face 1911: Detected Mahir with confidence 0.78
+Face 1912: Detected Priyal with confidence 0.59
+Face 1913: Detected Mahir with confidence 0.82
+Face 1914: Detected Priyal with confidence 0.40
+Face 1915: Detected Mahir with confidence 0.77
+Face 1916: Detected Priyal with confidence 0.46
+Face 1917: Detected Mahir with confidence 0.77
+Face 1918: Detected Priyal with confidence 0.34
+Face 1919: Detected Mahir with confidence 0.76
+Face 1920: Detected Priyal with confidence 0.38
+------ End of Batch ------
+Face 1921: Detected Mahir with confidence 0.79
+Face 1922: Detected Priyal with confidence 0.63
+Face 1923: Detected Mahir with confidence 0.83
+Face 1924: Detected Priyal with confidence 0.57
+Face 1925: Detected Mahir with confidence 0.81
+Face 1926: Detected Priyal with confidence 0.45
+Face 1927: Detected Mahir with confidence 0.80
+Face 1928: Detected Priyal with confidence 0.47
+Face 1929: Detected Mahir with confidence 0.78
+Face 1930: Detected Mahir with confidence 0.59
+------ End of Batch ------
+Face 1931: Detected Mahir with confidence 0.74
+Face 1932: Detected Manan with confidence 0.56
+Face 1933: Detected Mahir with confidence 0.76
+Face 1934: Detected Priyal with confidence 0.51
+Face 1935: Detected Mahir with confidence 0.71
+Face 1936: Detected Priyal with confidence 0.41
+Face 1937: Detected Mahir with confidence 0.70
+Face 1938: Alert - Not in data (best score: 0.30)
+Face 1939: Detected Mahir with confidence 0.75
+Face 1940: Detected Priyal with confidence 0.44
+------ End of Batch ------
+Face 1941: Detected Mahir with confidence 0.80
+Face 1942: Detected Priyal with confidence 0.39
+Face 1943: Detected Mahir with confidence 0.82
+Face 1944: Alert - Not in data (best score: 0.29)
+Face 1945: Detected Mahir with confidence 0.84
+Face 1946: Detected Priyal with confidence 0.51
+Face 1947: Detected Mahir with confidence 0.81
+Face 1948: Detected Priyal with confidence 0.35
+Face 1949: Detected Mahir with confidence 0.83
+Face 1950: Detected Priyal with confidence 0.44
+------ End of Batch ------
+Face 1951: Detected Mahir with confidence 0.83
+Face 1952: Detected Priyal with confidence 0.40
+Face 1953: Detected Mahir with confidence 0.82
+Face 1954: Detected Priyal with confidence 0.43
+Face 1955: Detected Mahir with confidence 0.76
+Face 1956: Detected Priyal with confidence 0.43
+Face 1957: Detected Mahir with confidence 0.74
+Face 1958: Detected Priyal with confidence 0.41
+Face 1959: Detected Mahir with confidence 0.76
+Face 1960: Detected Priyal with confidence 0.39
+------ End of Batch ------
+Face 1961: Detected Mahir with confidence 0.75
+Face 1962: Detected Priyal with confidence 0.43
+Face 1963: Detected Mahir with confidence 0.75
+Face 1964: Detected Priyal with confidence 0.48
+Face 1965: Detected Mahir with confidence 0.76
+Face 1966: Detected Priyal with confidence 0.49
+Face 1967: Detected Mahir with confidence 0.75
+Face 1968: Detected Priyal with confidence 0.32
+Face 1969: Detected Mahir with confidence 0.64
+Face 1970: Detected Priyal with confidence 0.38
+------ End of Batch ------
+Face 1971: Detected Mahir with confidence 0.66
+Face 1972: Detected Priyal with confidence 0.56
+Face 1973: Detected Mahir with confidence 0.64
+Face 1974: Detected Priyal with confidence 0.65
+Face 1975: Detected Mahir with confidence 0.69
+Face 1976: Detected Priyal with confidence 0.63
+Face 1977: Detected Mahir with confidence 0.67
+Face 1978: Detected Priyal with confidence 0.48
+Face 1979: Detected Mahir with confidence 0.69
+Face 1980: Detected Priyal with confidence 0.53
+------ End of Batch ------
+Face 1981: Detected Mahir with confidence 0.69
+Face 1982: Detected Priyal with confidence 0.44
+Face 1983: Detected Mahir with confidence 0.68
+Face 1984: Detected Priyal with confidence 0.34
+Face 1985: Detected Mahir with confidence 0.66
+Face 1986: Detected Priyal with confidence 0.32
+Face 1987: Detected Mahir with confidence 0.66
+Face 1988: Alert - Not in data (best score: 0.28)
+Face 1989: Detected Mahir with confidence 0.63
+Face 1990: Detected Priyal with confidence 0.31
+------ End of Batch ------
+Face 1991: Detected Mahir with confidence 0.70
+Face 1992: Detected Priyal with confidence 0.34
+Face 1993: Detected Mahir with confidence 0.73
+Face 1994: Detected Priyal with confidence 0.34
+Face 1995: Detected Mahir with confidence 0.67
+Face 1996: Detected Priyal with confidence 0.36
+Face 1997: Detected Mahir with confidence 0.66
+Face 1998: Alert - Not in data (best score: 0.23)
+Face 1999: Detected Mahir with confidence 0.67
+Face 2000: Detected Priyal with confidence 0.34
+------ End of Batch ------
+Face 2001: Detected Mahir with confidence 0.72
+Face 2002: Alert - Not in data (best score: 0.21)
+Face 2003: Detected Mahir with confidence 0.71
+Face 2004: Detected Priyal with confidence 0.35
+Face 2005: Detected Mahir with confidence 0.68
+Face 2006: Alert - Not in data (best score: 0.22)
+Face 2007: Detected Mahir with confidence 0.69
+Face 2008: Alert - Not in data (best score: 0.21)
+Face 2009: Detected Mahir with confidence 0.66
+Face 2010: Alert - Not in data (best score: 0.25)
+------ End of Batch ------
+Face 2011: Detected Mahir with confidence 0.70
+Face 2012: Alert - Not in data (best score: 0.11)
+Face 2013: Detected Mahir with confidence 0.70
+Face 2014: Alert - Not in data (best score: 0.18)
+Face 2015: Detected Mahir with confidence 0.69
+Face 2016: Alert - Not in data (best score: 0.22)
+Face 2017: Detected Mahir with confidence 0.69
+Face 2018: Alert - Not in data (best score: 0.14)
+Face 2019: Detected Mahir with confidence 0.71
+Face 2020: Alert - Not in data (best score: 0.17)
+------ End of Batch ------
+Face 2021: Detected Mahir with confidence 0.68
+Face 2022: Alert - Not in data (best score: 0.28)
+Face 2023: Detected Mahir with confidence 0.72
+Face 2024: Detected Priyal with confidence 0.44
+Face 2025: Detected Mahir with confidence 0.71
+Face 2026: Alert - Not in data (best score: 0.29)
+Face 2027: Detected Mahir with confidence 0.70
+Face 2028: Detected Mahir with confidence 0.32
+Face 2029: Detected Mahir with confidence 0.72
+Face 2030: Alert - Not in data (best score: 0.21)
+------ End of Batch ------
+Face 2031: Detected Mahir with confidence 0.78
+Face 2032: Alert - Not in data (best score: 0.29)
+Face 2033: Detected Mahir with confidence 0.76
+Face 2034: Detected Mahir with confidence 0.49
+Face 2035: Alert - Not in data (best score: 0.20)
+Face 2036: Detected Mahir with confidence 0.75
+Face 2037: Detected Mahir with confidence 0.30
+Face 2038: Alert - Not in data (best score: 0.24)
+Face 2039: Detected Mahir with confidence 0.71
+Face 2040: Detected Mahir with confidence 0.46
+------ End of Batch ------
+Face 2041: Alert - Not in data (best score: 0.21)
+Face 2042: Detected Mahir with confidence 0.74
+Face 2043: Detected Mahir with confidence 0.50
+Face 2044: Alert - Not in data (best score: 0.20)
+Face 2045: Detected Mahir with confidence 0.74
+Face 2046: Detected Mahir with confidence 0.39
+Face 2047: Alert - Not in data (best score: 0.23)
+Face 2048: Detected Mahir with confidence 0.75
+Face 2049: Detected Mahir with confidence 0.34
+Face 2050: Alert - Not in data (best score: 0.27)
+------ End of Batch ------
+Face 2051: Detected Mahir with confidence 0.77
+Face 2052: Detected Mahir with confidence 0.42
+Face 2053: Alert - Not in data (best score: 0.24)
+Face 2054: Detected Mahir with confidence 0.71
+Face 2055: Detected Mahir with confidence 0.53
+Face 2056: Alert - Not in data (best score: 0.24)
+Face 2057: Detected Mahir with confidence 0.70
+Face 2058: Detected Priyal with confidence 0.47
+Face 2059: Alert - Not in data (best score: 0.24)
+Face 2060: Detected Mahir with confidence 0.75
+------ End of Batch ------
+Face 2061: Detected Mahir with confidence 0.47
+Face 2062: Alert - Not in data (best score: 0.23)
+Face 2063: Detected Mahir with confidence 0.77
+Face 2064: Detected Mahir with confidence 0.51
+Face 2065: Alert - Not in data (best score: 0.23)
+Face 2066: Detected Mahir with confidence 0.78
+Face 2067: Detected Priyal with confidence 0.58
+Face 2068: Alert - Not in data (best score: 0.23)
+Face 2069: Detected Mahir with confidence 0.79
+Face 2070: Detected Priyal with confidence 0.44
+------ End of Batch ------
+Face 2071: Alert - Not in data (best score: 0.24)
+Face 2072: Detected Mahir with confidence 0.77
+Face 2073: Detected Priyal with confidence 0.55
+Face 2074: Alert - Not in data (best score: 0.22)
+Face 2075: Detected Mahir with confidence 0.79
+Face 2076: Detected Manan with confidence 0.49
+Face 2077: Alert - Not in data (best score: 0.21)
+Face 2078: Detected Mahir with confidence 0.81
+Face 2079: Detected Manan with confidence 0.34
+Face 2080: Detected Mahir with confidence 0.76
+------ End of Batch ------
+Face 2081: Detected Priyal with confidence 0.57
+Face 2082: Detected Mahir with confidence 0.74
+Face 2083: Detected Mahir with confidence 0.65
+Face 2084: Detected Mahir with confidence 0.74
+Face 2085: Detected Mahir with confidence 0.47
+Face 2086: Detected Mahir with confidence 0.71
+Face 2087: Detected Mahir with confidence 0.59
+Face 2088: Detected Mahir with confidence 0.69
+Face 2089: Detected Mahir with confidence 0.59
+Face 2090: Detected Mahir with confidence 0.74
+------ End of Batch ------
+Face 2091: Detected Mahir with confidence 0.40
+Face 2092: Detected Mahir with confidence 0.74
+Face 2093: Detected Mahir with confidence 0.58
+Face 2094: Detected Mahir with confidence 0.61
+Face 2095: Detected Mahir with confidence 0.38
+Face 2096: Detected Mahir with confidence 0.70
+Face 2097: Detected Mahir with confidence 0.60
+Face 2098: Detected Mahir with confidence 0.69
+Face 2099: Detected Priyal with confidence 0.64
+Face 2100: Detected Mahir with confidence 0.63
+------ End of Batch ------
+Face 2101: Detected Priyal with confidence 0.58
+Face 2102: Detected Mahir with confidence 0.66
+Face 2103: Detected Priyal with confidence 0.59
+Face 2104: Detected Mahir with confidence 0.60
+Face 2105: Detected Priyal with confidence 0.49
+Face 2106: Alert - Not in data (best score: 0.03)
+Face 2107: Alert - Not in data (best score: 0.25)
+Face 2108: Detected Mahir with confidence 0.65
+Face 2109: Detected Mahir with confidence 0.55
+Face 2110: Detected Manan with confidence 0.33
+------ End of Batch ------
+Face 2111: Detected Mahir with confidence 0.75
+Face 2112: Detected Mahir with confidence 0.59
+Face 2113: Alert - Not in data (best score: 0.10)
+Face 2114: Detected Mahir with confidence 0.74
+Face 2115: Detected Mahir with confidence 0.51
+Face 2116: Alert - Not in data (best score: 0.13)
+Face 2117: Detected Mahir with confidence 0.73
+Face 2118: Detected Mahir with confidence 0.54
+Face 2119: Alert - Not in data (best score: 0.14)
+Face 2120: Detected Mahir with confidence 0.60
+------ End of Batch ------
+Face 2121: Detected Mahir with confidence 0.51
+Face 2122: Alert - Not in data (best score: 0.09)
+Face 2123: Detected Mahir with confidence 0.60
+Face 2124: Detected Mahir with confidence 0.42
+Face 2125: Alert - Not in data (best score: 0.15)
+Face 2126: Detected Mahir with confidence 0.63
+Face 2127: Alert - Not in data (best score: 0.30)
+Face 2128: Alert - Not in data (best score: 0.13)
+Face 2129: Detected Mahir with confidence 0.67
+Face 2130: Detected Priyal with confidence 0.43
+------ End of Batch ------
+Face 2131: Alert - Not in data (best score: 0.14)
+Face 2132: Detected Mahir with confidence 0.75
+Face 2133: Alert - Not in data (best score: 0.26)
+Face 2134: Alert - Not in data (best score: 0.18)
+Face 2135: Detected Mahir with confidence 0.76
+Face 2136: Detected Priyal with confidence 0.37
+Face 2137: Alert - Not in data (best score: 0.17)
+Face 2138: Detected Mahir with confidence 0.79
+Face 2139: Detected Mahir with confidence 0.47
+Face 2140: Alert - Not in data (best score: 0.16)
+------ End of Batch ------
+Face 2141: Detected Mahir with confidence 0.72
+Face 2142: Detected Mahir with confidence 0.36
+Face 2143: Alert - Not in data (best score: 0.14)
+Face 2144: Detected Mahir with confidence 0.73
+Face 2145: Alert - Not in data (best score: 0.21)
+Face 2146: Alert - Not in data (best score: 0.21)
+Face 2147: Detected Mahir with confidence 0.76
+Face 2148: Detected Mahir with confidence 0.46
+Face 2149: Alert - Not in data (best score: 0.19)
+Face 2150: Detected Mahir with confidence 0.76
+------ End of Batch ------
+Face 2151: Detected Mahir with confidence 0.55
+Face 2152: Alert - Not in data (best score: 0.17)
+Face 2153: Detected Mahir with confidence 0.80
+Face 2154: Detected Mahir with confidence 0.54
+Face 2155: Alert - Not in data (best score: 0.12)
+Face 2156: Detected Mahir with confidence 0.73
+Face 2157: Detected Mahir with confidence 0.56
+Face 2158: Alert - Not in data (best score: 0.12)
+Face 2159: Detected Mahir with confidence 0.69
+Face 2160: Detected Mahir with confidence 0.52
+------ End of Batch ------
+Face 2161: Alert - Not in data (best score: 0.18)
+Face 2162: Detected Mahir with confidence 0.68
+Face 2163: Detected Mahir with confidence 0.49
+Face 2164: Alert - Not in data (best score: 0.14)
+Face 2165: Detected Mahir with confidence 0.74
+Face 2166: Alert - Not in data (best score: 0.23)
+Face 2167: Detected Mahir with confidence 0.55
+Face 2168: Detected Mahir with confidence 0.74
+Face 2169: Detected Mahir with confidence 0.49
+Face 2170: Detected Mahir with confidence 0.75
+------ End of Batch ------
+Face 2171: Detected Mahir with confidence 0.40
+Face 2172: Detected Mahir with confidence 0.72
+Face 2173: Alert - Not in data (best score: 0.19)
+Face 2174: Detected Mahir with confidence 0.72
+Face 2175: Detected Manan with confidence 0.39
+Face 2176: Alert - Not in data (best score: 0.24)
+Face 2177: Detected Mahir with confidence 0.77
+Face 2178: Detected Mahir with confidence 0.45
+Face 2179: Detected Mahir with confidence 0.80
+Face 2180: Detected Manan with confidence 0.39
+------ End of Batch ------
+Face 2181: Alert - Not in data (best score: 0.22)
+Face 2182: Detected Mahir with confidence 0.79
+Face 2183: Detected Manan with confidence 0.51
+Face 2184: Alert - Not in data (best score: 0.23)
+Face 2185: Detected Mahir with confidence 0.77
+Face 2186: Detected Manan with confidence 0.52
+Face 2187: Detected Mahir with confidence 0.73
+Face 2188: Detected Priyal with confidence 0.58
+Face 2189: Detected Mahir with confidence 0.80
+Face 2190: Detected Priyal with confidence 0.59
+------ End of Batch ------
+Face 2191: Detected Mahir with confidence 0.84
+Face 2192: Detected Mahir with confidence 0.53
+Face 2193: Detected Mahir with confidence 0.77
+Face 2194: Detected Priyal with confidence 0.54
+Face 2195: Detected Mahir with confidence 0.78
+Face 2196: Detected Priyal with confidence 0.57
+Face 2197: Detected Mahir with confidence 0.65
+Face 2198: Detected Mahir with confidence 0.59
+Face 2199: Detected Mahir with confidence 0.58
+Face 2200: Detected Priyal with confidence 0.47
+------ End of Batch ------
+Face 2201: Detected Mahir with confidence 0.62
+Face 2202: Detected Priyal with confidence 0.44
+Face 2203: Detected Mahir with confidence 0.61
+Face 2204: Detected Priyal with confidence 0.48
+Face 2205: Detected Mahir with confidence 0.64
+Face 2206: Detected Priyal with confidence 0.49
+Face 2207: Detected Mahir with confidence 0.64
+Face 2208: Detected Priyal with confidence 0.50
+Face 2209: Detected Mahir with confidence 0.63
+Face 2210: Detected Manan with confidence 0.40
+------ End of Batch ------
+Face 2211: Detected Mahir with confidence 0.67
+Face 2212: Detected Priyal with confidence 0.33
+Face 2213: Detected Mahir with confidence 0.43
+Face 2214: Alert - Not in data (best score: 0.22)
+Face 2215: Detected Mahir with confidence 0.44
+Face 2216: Alert - Not in data (best score: 0.16)
+Face 2217: Detected Mahir with confidence 0.56
+Face 2218: Alert - Not in data (best score: 0.23)
+Face 2219: Detected Mahir with confidence 0.59
+Face 2220: Alert - Not in data (best score: 0.19)
+------ End of Batch ------
+Face 2221: Alert - Not in data (best score: 0.13)
+Face 2222: Detected Mahir with confidence 0.65
+Face 2223: Alert - Not in data (best score: 0.22)
+Face 2224: Detected Mahir with confidence 0.65
+Face 2225: Alert - Not in data (best score: 0.21)
+Face 2226: Alert - Not in data (best score: 0.23)
+Face 2227: Detected Mahir with confidence 0.65
+Face 2228: Alert - Not in data (best score: 0.17)
+Face 2229: Alert - Not in data (best score: 0.21)
+Face 2230: Detected Mahir with confidence 0.58
+------ End of Batch ------
+Face 2231: Alert - Not in data (best score: 0.21)
+Face 2232: Alert - Not in data (best score: 0.16)
+Face 2233: Detected Mahir with confidence 0.48
+Face 2234: Detected Mahir with confidence 0.39
+Face 2235: Alert - Not in data (best score: 0.21)
+Face 2236: Detected Mahir with confidence 0.48
+Face 2237: Alert - Not in data (best score: 0.27)
+Face 2238: Detected Mahir with confidence 0.63
+Face 2239: Alert - Not in data (best score: 0.18)
+Face 2240: Alert - Not in data (best score: 0.28)
+------ End of Batch ------
+Face 2241: Detected Mahir with confidence 0.44
+Face 2242: Alert - Not in data (best score: 0.13)
+Face 2243: Alert - Not in data (best score: 0.14)
+Face 2244: Detected Mahir with confidence 0.54
+Face 2245: Detected Mahir with confidence 0.49
+Face 2246: Alert - Not in data (best score: 0.22)
+Face 2247: Detected Mahir with confidence 0.60
+Face 2248: Alert - Not in data (best score: 0.21)
+Face 2249: Detected Mahir with confidence 0.31
+Face 2250: Alert - Not in data (best score: 0.16)
+------ End of Batch ------
+Face 2251: Detected Mahir with confidence 0.67
+Face 2252: Detected Mahir with confidence 0.53
+Face 2253: Alert - Not in data (best score: 0.18)
+Face 2254: Detected Mahir with confidence 0.67
+Face 2255: Detected Mahir with confidence 0.56
+Face 2256: Alert - Not in data (best score: 0.18)
+Face 2257: Alert - Not in data (best score: 0.07)
+Face 2258: Detected Mahir with confidence 0.62
+Face 2259: Detected Mahir with confidence 0.43
+Face 2260: Alert - Not in data (best score: 0.19)
+------ End of Batch ------
+Face 2261: Detected Mahir with confidence 0.63
+Face 2262: Detected Priyal with confidence 0.38
+Face 2263: Alert - Not in data (best score: 0.20)
+Face 2264: Detected Manan with confidence 0.31
+Face 2265: Detected Mahir with confidence 0.63
+Face 2266: Detected Manan with confidence 0.41
+Face 2267: Alert - Not in data (best score: 0.29)
+Face 2268: Detected Mahir with confidence 0.62
+Face 2269: Detected Mahir with confidence 0.43
+Face 2270: Detected Manan with confidence 0.36
+------ End of Batch ------
+Face 2271: Detected Mahir with confidence 0.36
+Face 2272: Detected Mahir with confidence 0.48
+Face 2273: Alert - Not in data (best score: 0.24)
+Face 2274: Detected Manan with confidence 0.37
+Face 2275: Detected Mahir with confidence 0.36
+Face 2276: Detected Mahir with confidence 0.46
+Face 2277: Detected Manan with confidence 0.49
+Face 2278: Detected Mahir with confidence 0.55
+Face 2279: Detected Mahir with confidence 0.45
+Face 2280: Detected Manan with confidence 0.40
+------ End of Batch ------
+Face 2281: Detected Mahir with confidence 0.55
+Face 2282: Detected Mahir with confidence 0.50
+Face 2283: Detected Manan with confidence 0.47
+Face 2284: Detected Mahir with confidence 0.57
+Face 2285: Detected Mahir with confidence 0.38
+Face 2286: Detected Mahir with confidence 0.56
+Face 2287: Alert - Not in data (best score: 0.19)
+Face 2288: Detected Mahir with confidence 0.59
+Face 2289: Alert - Not in data (best score: 0.19)
+Face 2290: Detected Manan with confidence 0.57
+------ End of Batch ------
+Face 2291: Detected Mahir with confidence 0.50
+Face 2292: Alert - Not in data (best score: 0.21)
+Face 2293: Detected Mahir with confidence 0.48
+Face 2294: Detected Mahir with confidence 0.48
+Face 2295: Detected Mahir with confidence 0.66
+Face 2296: Alert - Not in data (best score: 0.29)
+Face 2297: Detected Mahir with confidence 0.41
+Face 2298: Detected Mahir with confidence 0.57
+Face 2299: Detected Mahir with confidence 0.37
+Face 2300: Detected Mahir with confidence 0.33
+------ End of Batch ------
+Face 2301: Detected Mahir with confidence 0.39
+Face 2302: Detected Mahir with confidence 0.35
+Face 2303: Detected Mahir with confidence 0.55
+Face 2304: Detected Mahir with confidence 0.43
+Face 2305: Detected Mahir with confidence 0.45
+Face 2306: Detected Mahir with confidence 0.47
+Face 2307: Detected Mahir with confidence 0.44
+Face 2308: Detected Mahir with confidence 0.55
+Face 2309: Detected Priyal with confidence 0.52
+Face 2310: Detected Mahir with confidence 0.47
+------ End of Batch ------
+Face 2311: Detected Mahir with confidence 0.49
+Face 2312: Detected Mahir with confidence 0.42
+Face 2313: Detected Mahir with confidence 0.45
+Face 2314: Alert - Not in data (best score: 0.23)
+Face 2315: Alert - Not in data (best score: 0.29)
+Face 2316: Detected Mahir with confidence 0.42
+Face 2317: Alert - Not in data (best score: 0.26)
+Face 2318: Detected Mahir with confidence 0.47
+Face 2319: Alert - Not in data (best score: 0.09)
+Face 2320: Detected Mahir with confidence 0.31
+------ End of Batch ------
+Face 2321: Detected Mahir with confidence 0.42
+Face 2322: Alert - Not in data (best score: 0.16)
+Face 2323: Detected Mahir with confidence 0.54
+Face 2324: Alert - Not in data (best score: 0.22)
+Face 2325: Detected Mahir with confidence 0.63
+Face 2326: Detected Mahir with confidence 0.51
+Face 2327: Detected Mahir with confidence 0.64
+Face 2328: Detected Manan with confidence 0.37
+Face 2329: Detected Mahir with confidence 0.56
+Face 2330: Detected Manan with confidence 0.45
+------ End of Batch ------
+Face 2331: Detected Mahir with confidence 0.63
+Face 2332: Alert - Not in data (best score: 0.24)
+Face 2333: Detected Mahir with confidence 0.45
+Face 2334: Detected Mahir with confidence 0.44
+Face 2335: Detected Mahir with confidence 0.39
+Face 2336: Detected Priyal with confidence 0.32
+Face 2337: Detected Mahir with confidence 0.57
+Face 2338: Detected Manan with confidence 0.41
+Face 2339: Detected Mahir with confidence 0.66
+Face 2340: Detected Mahir with confidence 0.38
+------ End of Batch ------
+Face 2341: Detected Mahir with confidence 0.48
+Face 2342: Detected Priyal with confidence 0.34
+Face 2343: Detected Mahir with confidence 0.61
+Face 2344: Detected Priyal with confidence 0.47
+Face 2345: Detected Mahir with confidence 0.54
+Face 2346: Detected Mahir with confidence 0.48
+Face 2347: Detected Mahir with confidence 0.43
+Face 2348: Alert - Not in data (best score: 0.26)
+Face 2349: Detected Mahir with confidence 0.49
+Face 2350: Detected Mahir with confidence 0.36
+------ End of Batch ------
+Face 2351: Detected Mahir with confidence 0.36
+Face 2352: Alert - Not in data (best score: 0.26)
+Face 2353: Detected Mahir with confidence 0.40
+Face 2354: Detected Mahir with confidence 0.48
+Face 2355: Alert - Not in data (best score: 0.23)
+Face 2356: Detected Mahir with confidence 0.31
+Face 2357: Alert - Not in data (best score: 0.18)
+Face 2358: Detected Priyal with confidence 0.38
+Face 2359: Alert - Not in data (best score: 0.16)
+Face 2360: Detected Priyal with confidence 0.32
+------ End of Batch ------
+Face 2361: Alert - Not in data (best score: 0.11)
+Face 2362: Detected Mahir with confidence 0.47
+Face 2363: Alert - Not in data (best score: 0.15)
+Face 2364: Detected Mahir with confidence 0.37
+Face 2365: Alert - Not in data (best score: 0.12)
+Face 2366: Detected Mahir with confidence 0.32
+Face 2367: Alert - Not in data (best score: 0.13)
+Face 2368: Detected Mahir with confidence 0.32
+Face 2369: Alert - Not in data (best score: 0.13)
+Face 2370: Detected Mahir with confidence 0.36
+------ End of Batch ------
+Face 2371: Alert - Not in data (best score: 0.13)
+Face 2372: Alert - Not in data (best score: 0.25)
+Face 2373: Alert - Not in data (best score: 0.20)
+Face 2374: Alert - Not in data (best score: 0.21)
+Face 2375: Alert - Not in data (best score: 0.16)
+Face 2376: Alert - Not in data (best score: 0.18)
+Face 2377: Alert - Not in data (best score: 0.21)
+Face 2378: Alert - Not in data (best score: 0.17)
+Face 2379: Detected Mahir with confidence 0.34
+Face 2380: Alert - Not in data (best score: 0.17)
+------ End of Batch ------
+Face 2381: Alert - Not in data (best score: 0.27)
+Face 2382: Alert - Not in data (best score: 0.22)
+Face 2383: Alert - Not in data (best score: 0.22)
+Face 2384: Alert - Not in data (best score: 0.20)
+Face 2385: Alert - Not in data (best score: 0.24)
+Face 2386: Alert - Not in data (best score: 0.24)
+Face 2387: Alert - Not in data (best score: 0.21)
+Face 2388: Alert - Not in data (best score: 0.24)
+Face 2389: Alert - Not in data (best score: 0.17)
+Face 2390: Alert - Not in data (best score: 0.26)
+------ End of Batch ------
+Face 2391: Alert - Not in data (best score: 0.15)
+Face 2392: Alert - Not in data (best score: 0.20)
+Face 2393: Alert - Not in data (best score: 0.18)
+Face 2394: Alert - Not in data (best score: 0.24)
+Face 2395: Alert - Not in data (best score: 0.17)
+Face 2396: Alert - Not in data (best score: 0.26)
+Face 2397: Alert - Not in data (best score: 0.20)
+Face 2398: Detected Priyal with confidence 0.34
+Face 2399: Alert - Not in data (best score: 0.18)
+Face 2400: Alert - Not in data (best score: 0.21)
+------ End of Batch ------
+Face 2401: Alert - Not in data (best score: 0.17)
+Face 2402: Alert - Not in data (best score: 0.24)
+Face 2403: Alert - Not in data (best score: 0.21)
+Face 2404: Alert - Not in data (best score: 0.22)
+Face 2405: Alert - Not in data (best score: 0.20)
+Face 2406: Alert - Not in data (best score: 0.22)
+Face 2407: Alert - Not in data (best score: 0.19)
+Face 2408: Alert - Not in data (best score: 0.16)
+Face 2409: Alert - Not in data (best score: 0.16)
+Face 2410: Alert - Not in data (best score: 0.16)
+------ End of Batch ------
+Face 2411: Alert - Not in data (best score: 0.16)
+Face 2412: Alert - Not in data (best score: 0.12)
+Face 2413: Alert - Not in data (best score: 0.28)
+Face 2414: Alert - Not in data (best score: 0.20)
+Face 2415: Alert - Not in data (best score: 0.24)
+Face 2416: Alert - Not in data (best score: 0.24)
+Face 2417: Alert - Not in data (best score: 0.23)
+Face 2418: Alert - Not in data (best score: 0.21)
+Face 2419: Alert - Not in data (best score: 0.20)
+Face 2420: Alert - Not in data (best score: 0.14)
+------ End of Batch ------
+Face 2421: Alert - Not in data (best score: 0.20)
+Face 2422: Alert - Not in data (best score: 0.17)
+Face 2423: Alert - Not in data (best score: 0.25)
+Face 2424: Alert - Not in data (best score: 0.21)
+Face 2425: Alert - Not in data (best score: 0.19)
+Face 2426: Alert - Not in data (best score: 0.24)
+Face 2427: Detected Priyal with confidence 0.31
+Face 2428: Alert - Not in data (best score: 0.19)
+Face 2429: Alert - Not in data (best score: 0.24)
+Face 2430: Alert - Not in data (best score: 0.18)
+------ End of Batch ------
+Face 2431: Alert - Not in data (best score: 0.19)
+Face 2432: Alert - Not in data (best score: 0.18)
+Face 2433: Alert - Not in data (best score: 0.15)
+Face 2434: Alert - Not in data (best score: 0.15)
+Face 2435: Alert - Not in data (best score: 0.19)
+Face 2436: Alert - Not in data (best score: 0.16)
+Face 2437: Alert - Not in data (best score: 0.17)
+Face 2438: Alert - Not in data (best score: 0.18)
+Face 2439: Alert - Not in data (best score: 0.16)
+Face 2440: Alert - Not in data (best score: 0.19)
+------ End of Batch ------
+Face 2441: Alert - Not in data (best score: 0.16)
+Face 2442: Alert - Not in data (best score: 0.18)
+Face 2443: Alert - Not in data (best score: 0.18)
+Face 2444: Alert - Not in data (best score: 0.18)
+Face 2445: Alert - Not in data (best score: 0.25)
+Face 2446: Alert - Not in data (best score: 0.19)
+Face 2447: Alert - Not in data (best score: 0.26)
+Face 2448: Alert - Not in data (best score: 0.29)
+Face 2449: Detected Priyal with confidence 0.37
+Face 2450: Alert - Not in data (best score: 0.21)
+------ End of Batch ------
+Face 2451: Alert - Not in data (best score: 0.18)
+Face 2452: Alert - Not in data (best score: 0.14)
+Face 2453: Alert - Not in data (best score: 0.13)
+Face 2454: Alert - Not in data (best score: 0.17)
+Face 2455: Alert - Not in data (best score: 0.18)
+Face 2456: Alert - Not in data (best score: 0.13)
+Face 2457: Alert - Not in data (best score: 0.11)
+Face 2458: Alert - Not in data (best score: 0.16)
+Face 2459: Alert - Not in data (best score: 0.15)
+Face 2460: Alert - Not in data (best score: 0.14)
+------ End of Batch ------
+Face 1: Detected Mahir with confidence 0.58
+------ End of Batch ------
+Face 1: Detected Mahir with confidence 0.58
+------ End of Batch ------
